@@ -76,17 +76,20 @@
             {
              "name": "화이트1",
              "detail": "120 · 160 · 250 · 300 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/16bb5047931ed.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/16bb5047931ed.jpg",
+             "hex": "#F9F9FB"
             },
             {
              "name": "화이트2",
              "detail": "120 · 160 · 250 · 300 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9d2ee9201de7d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9d2ee9201de7d.png",
+             "hex": "#F3F1ED"
             },
             {
              "name": "블랙",
              "detail": "120 · 250 · 300 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/39b56de8bf31d.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/39b56de8bf31d.jpg",
+             "hex": "#12100F"
             }
            ]
           }
@@ -156,17 +159,20 @@
             {
              "name": "블랑",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/803416ab7507a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/803416ab7507a.jpg",
+             "hex": "#FEFBFF"
             },
             {
              "name": "크림",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b19bc9514e74a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b19bc9514e74a.jpg",
+             "hex": "#FEFAF2"
             },
             {
              "name": "베이지",
              "detail": "90 · 120 · 240 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/de606c4b6b1f1.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/de606c4b6b1f1.jpg",
+             "hex": "#FEFAE4"
             }
            ]
           }
@@ -265,32 +271,38 @@
             {
              "name": "퓨어",
              "detail": "135 · 160 · 200 · 250 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2740ac4c5cbab.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2740ac4c5cbab.png",
+             "hex": "#FCFBFC"
             },
             {
              "name": "매트",
              "detail": "135 · 200 · 250 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c2ef74eb796d9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c2ef74eb796d9.png",
+             "hex": "#FCFBFC"
             },
             {
              "name": "린넨",
              "detail": "135 · 250 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/134bed1048644.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/134bed1048644.png",
+             "hex": "#F2F6F5"
             },
             {
              "name": "레이드",
              "detail": "135 · 250 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/97d6750eaeb20.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/97d6750eaeb20.png",
+             "hex": "#F5F7F6"
             },
             {
              "name": "필",
              "detail": "135 · 250 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f99c914b51eee.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f99c914b51eee.png",
+             "hex": "#FBF8F9"
             },
             {
              "name": "위브",
              "detail": "135 · 250 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9b8162a87d14f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9b8162a87d14f.png",
+             "hex": "#FBFBF9"
             }
            ]
           }
@@ -367,12 +379,14 @@
             {
              "name": "코튼 화이트",
              "detail": "240 · 300 · 480 · 600 · 900 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f03618eefea97.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f03618eefea97.png",
+             "hex": "#F8F6F4"
             },
             {
              "name": "코튼 크림",
              "detail": "300 · 600 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c2b69017d610e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c2b69017d610e.png",
+             "hex": "#FCF3D6"
             }
            ]
           }
@@ -432,27 +446,32 @@
             {
              "name": "49 스노우 화이트",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/871209ae4de72.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/871209ae4de72.jpg",
+             "hex": "#F7F5F3"
             },
             {
              "name": "PC 파우더 크림",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1babb309fe970.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1babb309fe970.png",
+             "hex": "#FAECC8"
             },
             {
              "name": "71 파우더 핑크",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eb5aef59c3cdc.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eb5aef59c3cdc.jpg",
+             "hex": "#FCF4F1"
             },
             {
              "name": "PB 파우더 블루",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/85ce1a1fe0992.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/85ce1a1fe0992.png",
+             "hex": "#DDEAFA"
             },
             {
              "name": "59 젠틀 네이비",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fed66e811f9d2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fed66e811f9d2.png",
+             "hex": "#2A2F45"
             }
            ]
           }
@@ -553,32 +572,38 @@
             {
              "name": "위트 화이트",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7988f61b93e4e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7988f61b93e4e.png",
+             "hex": "#EEEFEE"
             },
             {
              "name": "위트 크림",
              "detail": "90 · 120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b415060e58b00.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b415060e58b00.png",
+             "hex": "#F6F3EA"
             },
             {
              "name": "위트 베이지",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1fe768e8ac18c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1fe768e8ac18c.png",
+             "hex": "#E6E2D8"
             },
             {
              "name": "헴프 100%",
              "detail": "120 · 320 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/889d98de5cfff.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/889d98de5cfff.png",
+             "hex": "#F9F8F2"
             },
             {
              "name": "헴프 50%",
              "detail": "120 · 320 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/15f00ebae53d6.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/15f00ebae53d6.png",
+             "hex": "#F9F8F0"
             },
             {
              "name": "헴프 10%",
              "detail": "120 · 320 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a58d2efb20ed4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a58d2efb20ed4.png",
+             "hex": "#F9F8F2"
             }
            ]
           }
@@ -644,117 +669,140 @@
             {
              "name": "401 화이트",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dcc87a705159c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dcc87a705159c.jpg",
+             "hex": "#F0EEEA"
             },
             {
              "name": "402 크림",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e8c44b539443e.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e8c44b539443e.jpg",
+             "hex": "#EFF0E9"
             },
             {
              "name": "447 펄 베이지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/daf43c939f00b.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/daf43c939f00b.jpg",
+             "hex": "#BFB8A9"
             },
             {
              "name": "412 샌드 베이지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/937ae9abf58f0.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/937ae9abf58f0.jpg",
+             "hex": "#CBBA9B"
             },
             {
              "name": "413 브라운 베이지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f411745385b7.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f411745385b7.jpg",
+             "hex": "#C09C59"
             },
             {
              "name": "424 다크 브라운",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cec62607f34b8.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cec62607f34b8.jpg",
+             "hex": "#4E3D33"
             },
             {
              "name": "400 블랙",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/00b9f3b27f555.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/00b9f3b27f555.jpg",
+             "hex": "#1E1E1E"
             },
             {
              "name": "454 다크 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d10780eeaec72.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d10780eeaec72.jpg",
+             "hex": "#757069"
             },
             {
              "name": "453 애쉬 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/65b7dacad64dc.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/65b7dacad64dc.jpg",
+             "hex": "#797C76"
             },
             {
              "name": "452 라이트 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/87cdfcf3a62ed.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/87cdfcf3a62ed.jpg",
+             "hex": "#ACADA6"
             },
             {
              "name": "450 실버 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/902e2335eaa8b.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/902e2335eaa8b.jpg",
+             "hex": "#BAB8B7"
             },
             {
              "name": "410 샤모아",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f71a7131d7fd0.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f71a7131d7fd0.jpg",
+             "hex": "#F6F0D7"
             },
             {
              "name": "414 옐로우",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9de9d9603db7c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9de9d9603db7c.jpg",
+             "hex": "#F3D302"
             },
             {
              "name": "415 탠저린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2033562938d95.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2033562938d95.jpg",
+             "hex": "#F3AA02"
             },
             {
              "name": "416 오렌지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/af3c01b882ec4.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/af3c01b882ec4.jpg",
+             "hex": "#F36502"
             },
             {
              "name": "430 토마토",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/381904a16a561.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/381904a16a561.jpg",
+             "hex": "#A63024"
             },
             {
              "name": "431 레드",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f250cec01e5c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f250cec01e5c.jpg",
+             "hex": "#832B2B"
             },
             {
              "name": "434 오베르진",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f19287a84f777.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f19287a84f777.jpg",
+             "hex": "#582B35"
             },
             {
              "name": "456 다크 블루",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/00c151b608611.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/00c151b608611.jpg",
+             "hex": "#10163A"
             },
             {
              "name": "461 미드나잇 블루",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c932bc20c4b20.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c932bc20c4b20.jpg",
+             "hex": "#0C0F29"
             },
             {
              "name": "466 시안",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c24c303795dec.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c24c303795dec.jpg",
+             "hex": "#029EE1"
             },
             {
              "name": "467 터키쉬 그린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1d56d8fd83656.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1d56d8fd83656.jpg",
+             "hex": "#02969D"
             },
             {
              "name": "484 다크 그린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/360de294f2cb0.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/360de294f2cb0.jpg",
+             "hex": "#0A2817"
             }
            ]
           },
@@ -764,42 +812,50 @@
             {
              "name": "50 화이트",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8683f54688eb2.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8683f54688eb2.jpg",
+             "hex": "#F0EEEA"
             },
             {
              "name": "85 펄 베이지",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eb4fcb13b9892.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eb4fcb13b9892.jpg",
+             "hex": "#BFB8A9"
             },
             {
              "name": "37 다크 브라운",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/aeff802dc62f3.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/aeff802dc62f3.jpg",
+             "hex": "#4E3D33"
             },
             {
              "name": "10 블랙",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/55c5fe2ed11bf.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/55c5fe2ed11bf.jpg",
+             "hex": "#1E1E1E"
             },
             {
              "name": "57 다크 그레이",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/836f7546ebf8b.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/836f7546ebf8b.jpg",
+             "hex": "#757069"
             },
             {
              "name": "59 다크 블루",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7767f7b4f0b08.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7767f7b4f0b08.jpg",
+             "hex": "#10153A"
             },
             {
              "name": "62 베이비 블루",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/359f051192de5.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/359f051192de5.jpg",
+             "hex": "#CADAE5"
             },
             {
              "name": "11 베이비 핑크",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a9725c7f10e99.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a9725c7f10e99.jpg",
+             "hex": "#F5C6C3"
             }
            ]
           }
@@ -862,27 +918,32 @@
             {
              "name": "구텐베르그 화이트",
              "detail": "330 · 530 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dc24f39186f70.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dc24f39186f70.png",
+             "hex": "#F7F6F2"
             },
             {
              "name": "밀라노 크림",
              "detail": "330 · 530 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/904f75995fe2b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/904f75995fe2b.png",
+             "hex": "#E3DED0"
             },
             {
              "name": "콜롬비아 크라프트",
              "detail": "330 · 530 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/533b17949d21d.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/533b17949d21d.jpg",
+             "hex": "#D6BB8E"
             },
             {
              "name": "하이델베르그 그레이",
              "detail": "330 · 530 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/21365f6fcaf9b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/21365f6fcaf9b.png",
+             "hex": "#93938F"
             },
             {
              "name": "보스턴 블랙",
              "detail": "330 · 530 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0a27aee743469.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0a27aee743469.png",
+             "hex": "#2A2C22"
             }
            ]
           }
@@ -945,12 +1006,14 @@
             {
              "name": "NC 내추럴 화이트",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62410e63de57f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62410e63de57f.png",
+             "hex": "#E9E7E6"
             },
             {
              "name": "NB 내추럴 브라운",
              "detail": "120 · 300 · 600 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/347d30162b48e.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/347d30162b48e.jpg",
+             "hex": "#D8B386"
             }
            ]
           }
@@ -1020,52 +1083,62 @@
             {
              "name": "MW 미카도 화이트",
              "detail": "130 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/88d3b5f156c0c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/88d3b5f156c0c.png",
+             "hex": "#E4E2DB"
             },
             {
              "name": "EG 유로 골드",
              "detail": "130 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/67c1aff96f933.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/67c1aff96f933.png",
+             "hex": "#E4C97E"
             },
             {
              "name": "RG 로얄 골드",
              "detail": "130 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ee07f95dd5a45.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ee07f95dd5a45.png",
+             "hex": "#E3BE53"
             },
             {
              "name": "317 샌드 골드",
              "detail": "130 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b77a4866eff68.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b77a4866eff68.png",
+             "hex": "#C1B18A"
             },
             {
              "name": "25 로즈 골드",
              "detail": "130 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/93dd8a489ba24.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/93dd8a489ba24.png",
+             "hex": "#C19E97"
             },
             {
              "name": "VQ 바이올렛 쿼츠",
              "detail": "130 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2e5579ec4114.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2e5579ec4114.png",
+             "hex": "#1D1313"
             },
             {
              "name": "316 파티나",
              "detail": "130 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/64dd588a0d577.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/64dd588a0d577.png",
+             "hex": "#28190F"
             },
             {
              "name": "314 폴라",
              "detail": "130 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62809166999eb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62809166999eb.png",
+             "hex": "#131722"
             },
             {
              "name": "313 플래틴",
              "detail": "130 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/aa964a2f3a235.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/aa964a2f3a235.png",
+             "hex": "#3A3C41"
             },
             {
              "name": "312 미네랄",
              "detail": "130 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d233c07298325.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d233c07298325.png",
+             "hex": "#A4B0B4"
             }
            ]
           }
@@ -1125,142 +1198,170 @@
             {
              "name": "401 화이트",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/07d6af7575d37.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/07d6af7575d37.jpg",
+             "hex": "#FBFAFB"
             },
             {
              "name": "402 크림",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f9ef0701c8624.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f9ef0701c8624.jpg",
+             "hex": "#FEFDF7"
             },
             {
              "name": "412 샌드 베이지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/be266324f7c03.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/be266324f7c03.jpg",
+             "hex": "#DFD0BC"
             },
             {
              "name": "413 브라운 베이지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f2c631f6f0102.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f2c631f6f0102.jpg",
+             "hex": "#D3B488"
             },
             {
              "name": "424 다크 브라운",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a389326db599a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a389326db599a.png",
+             "hex": "#493C2F"
             },
             {
              "name": "450 실버 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c7396a9fc967c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c7396a9fc967c.png",
+             "hex": "#C6C6C6"
             },
             {
              "name": "452 라이트 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c1de3811b5a12.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c1de3811b5a12.jpg",
+             "hex": "#9D9C97"
             },
             {
              "name": "453 애쉬 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d57c83a91d4d8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d57c83a91d4d8.png",
+             "hex": "#737269"
             },
             {
              "name": "454 다크 그레이",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f47005d56a1f7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f47005d56a1f7.png",
+             "hex": "#515148"
             },
             {
              "name": "400 블랙",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/985f54610cd3a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/985f54610cd3a.png",
+             "hex": "#181818"
             },
             {
              "name": "410 샤모아",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b469a5912867a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b469a5912867a.jpg",
+             "hex": "#FEF4CC"
             },
             {
              "name": "414 옐로우",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5bad49cdc82e7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5bad49cdc82e7.png",
+             "hex": "#FED510"
             },
             {
              "name": "415 탠저린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c53ef37c6e335.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c53ef37c6e335.png",
+             "hex": "#FEB102"
             },
             {
              "name": "416 오렌지",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a53a2b2e44ea9.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a53a2b2e44ea9.jpg",
+             "hex": "#F8680D"
             },
             {
              "name": "430 토마토",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c9e553cf4cf87.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c9e553cf4cf87.jpg",
+             "hex": "#D32B34"
             },
             {
              "name": "431 레드",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bfad846ff94d0.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bfad846ff94d0.jpg",
+             "hex": "#AA172B"
             },
             {
              "name": "433 라즈베리",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8e27badb90536.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8e27badb90536.png",
+             "hex": "#723039"
             },
             {
              "name": "434 오베르진",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/234199ffc1323.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/234199ffc1323.jpg",
+             "hex": "#58373B"
             },
             {
              "name": "437 마젠타",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/94b66d4005568.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/94b66d4005568.jpg",
+             "hex": "#C85489"
             },
             {
              "name": "480 라임",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b81032a52d71d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b81032a52d71d.png",
+             "hex": "#C6DE60"
             },
             {
              "name": "483 애플 그린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c81788bf07102.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c81788bf07102.png",
+             "hex": "#8FB151"
             },
             {
              "name": "482 그라스",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/92ab49dada7f8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/92ab49dada7f8.png",
+             "hex": "#6B8E60"
             },
             {
              "name": "484 다크 그린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/74e71d203f198.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/74e71d203f198.jpg",
+             "hex": "#1B4128"
             },
             {
              "name": "467 터키쉬 그린",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c862180a6eeb7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c862180a6eeb7.png",
+             "hex": "#1A8C8D"
             },
             {
              "name": "466 시안",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/583c3dd4a52c0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/583c3dd4a52c0.png",
+             "hex": "#308BBA"
             },
             {
              "name": "464 셀룰리안 블루",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/61b6d6aef68b2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/61b6d6aef68b2.png",
+             "hex": "#1B557D"
             },
             {
              "name": "462 오팔 블루",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bb6ba4427ce08.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bb6ba4427ce08.jpg",
+             "hex": "#41436E"
             },
             {
              "name": "461 미드나잇 블루",
              "detail": "120 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8c9db51d76f4b.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8c9db51d76f4b.jpg",
+             "hex": "#2D323E"
             }
            ]
           }
@@ -1327,42 +1428,50 @@
             {
              "name": "49 레더 화이트",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/20b5c77e9e885.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/20b5c77e9e885.png",
+             "hex": "#E4E4E4"
             },
             {
              "name": "07 레더 크림",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ea4cb1a9dabc8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ea4cb1a9dabc8.png",
+             "hex": "#EEE6CD"
             },
             {
              "name": "93 멜란지 그레이",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c62ea757a2f2a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c62ea757a2f2a.png",
+             "hex": "#6D6B69"
             },
             {
              "name": "38 레드 브라운",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fafab8a297f9d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fafab8a297f9d.png",
+             "hex": "#7E4F3E"
             },
             {
              "name": "37 딥 브라운",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/10065a4fe3a9b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/10065a4fe3a9b.png",
+             "hex": "#352C29"
             },
             {
              "name": "10 태니지 블랙",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/30ede552c2676.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/30ede552c2676.png",
+             "hex": "#202020"
             },
             {
              "name": "59 딥 블루",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/efafd944e5fdf.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/efafd944e5fdf.png",
+             "hex": "#262B43"
             },
             {
              "name": "150 딥 레드",
              "detail": "135 · 240 · 350 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e39fc84fa5128.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e39fc84fa5128.png",
+             "hex": "#9B152C"
             }
            ]
           }
@@ -1430,47 +1539,56 @@
             {
              "name": "50 샤이닝 화이트",
              "detail": "110 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b07eec241d3f3.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b07eec241d3f3.jpg",
+             "hex": "#D2D0D0"
             },
             {
              "name": "B2 샤이닝 크림",
              "detail": "110 · 240 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91bb51e4b4f26.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91bb51e4b4f26.jpg",
+             "hex": "#D3CABB"
             },
             {
              "name": "94 스플렌디드 선셋",
              "detail": "130 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/67cfcb8158b66.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/67cfcb8158b66.jpg",
+             "hex": "#FDA40C"
             },
             {
              "name": "85 브라이트 베이지",
              "detail": "130 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8ec39c56c79b8.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8ec39c56c79b8.jpg",
+             "hex": "#A3977D"
             },
             {
              "name": "38 앤틱 브론즈",
              "detail": "110 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f993e58e4d561.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f993e58e4d561.jpg",
+             "hex": "#80614F"
             },
             {
              "name": "28 브릴리언트 그린",
              "detail": "110 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ec502f5cdef4.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ec502f5cdef4.jpg",
+             "hex": "#D9CA15"
             },
             {
              "name": "45 실버 라이닝",
              "detail": "110 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dbdcfc2a86adf.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dbdcfc2a86adf.jpg",
+             "hex": "#B8C1C0"
             },
             {
              "name": "44 플래티넘 메탈",
              "detail": "110 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bb031d48ded30.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bb031d48ded30.jpg",
+             "hex": "#9BA4B3"
             },
             {
              "name": "B8 플래티넘 블랙",
              "detail": "110 · 310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b9167a6741762.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b9167a6741762.jpg",
+             "hex": "#191717"
             }
            ]
           }
@@ -1534,77 +1652,92 @@
             {
              "name": "A01 포쉐린 화이트",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/36fa230ebdc0f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/36fa230ebdc0f.png",
+             "hex": "#FDFDFD"
             },
             {
              "name": "A04 소프트 크림",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/def61608a09bc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/def61608a09bc.png",
+             "hex": "#FAEFD7"
             },
             {
              "name": "A05 페일 코랄",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/09e3c106f2aa0.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/09e3c106f2aa0.jpg",
+             "hex": "#F7E1D5"
             },
             {
              "name": "A19 누디 베이지",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/204ebd5b37309.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/204ebd5b37309.png",
+             "hex": "#E4D8CE"
             },
             {
              "name": "A03 소프트 민트",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f59f6210b4645.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f59f6210b4645.jpg",
+             "hex": "#C9D5CA"
             },
             {
              "name": "A06 베이비 퍼플",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/99feec5f75e9f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/99feec5f75e9f.png",
+             "hex": "#D7CADC"
             },
             {
              "name": "A07 실버 그레이",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2d28a4d4968fb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2d28a4d4968fb.png",
+             "hex": "#AFADA9"
             },
             {
              "name": "A02 스톤 그레이",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7d4774d29190a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7d4774d29190a.png",
+             "hex": "#818080"
             },
             {
              "name": "A14 인디고",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5a137734bf6fa.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5a137734bf6fa.png",
+             "hex": "#2A2C38"
             },
             {
              "name": "A15 피코크 그린",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/74e4d868e6928.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/74e4d868e6928.png",
+             "hex": "#294A52"
             },
             {
              "name": "A08 레이크 블루",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1fdf37e3e87af.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1fdf37e3e87af.png",
+             "hex": "#1355A2"
             },
             {
              "name": "A17 스칼렛",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/08dca65712ffc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/08dca65712ffc.png",
+             "hex": "#A7081B"
             },
             {
              "name": "A11 테라코타",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/976d32a2081ab.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/976d32a2081ab.png",
+             "hex": "#C27E69"
             },
             {
              "name": "A10 미카도 옐로우",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b448330102d57.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b448330102d57.png",
+             "hex": "#FDC301"
             },
             {
              "name": "A16 로스트 브라운",
              "detail": "120 · 240 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/edb8c9eee1936.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/edb8c9eee1936.png",
+             "hex": "#564435"
             }
            ]
           }
@@ -1667,82 +1800,98 @@
             {
              "name": "화이트",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/334616e69ae7e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/334616e69ae7e.png",
+             "hex": "#F1F1F1"
             },
             {
              "name": "크림",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b103ff39b04f4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b103ff39b04f4.png",
+             "hex": "#F1E8D4"
             },
             {
              "name": "샤모아",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a972f8b0aab1e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a972f8b0aab1e.png",
+             "hex": "#F4DBB5"
             },
             {
              "name": "로즈",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5444697c93d0c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5444697c93d0c.png",
+             "hex": "#EAB8C1"
             },
             {
              "name": "라이트 그레이",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/817e20d2a44ef.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/817e20d2a44ef.png",
+             "hex": "#D5D6CF"
             },
             {
              "name": "베이지",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4f776915229ce.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4f776915229ce.png",
+             "hex": "#D3C6A3"
             },
             {
              "name": "옐로우",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d21c8b79749c8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d21c8b79749c8.png",
+             "hex": "#FDE03F"
             },
             {
              "name": "올리브 그린",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/803e6d7b46f05.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/803e6d7b46f05.jpg",
+             "hex": "#CFCA65"
             },
             {
              "name": "다크 그레이",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/20de88cde4861.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/20de88cde4861.png",
+             "hex": "#969791"
             },
             {
              "name": "다크 그린",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5e87c7aad918e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5e87c7aad918e.png",
+             "hex": "#046B5B"
             },
             {
              "name": "블루",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f652c849ad211.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f652c849ad211.png",
+             "hex": "#30447D"
             },
             {
              "name": "레드",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/25ec122a46954.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/25ec122a46954.png",
+             "hex": "#B82E3E"
             },
             {
              "name": "오베르진",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/783df49b2ac0f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/783df49b2ac0f.png",
+             "hex": "#7D4750"
             },
             {
              "name": "다크 블루",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f68d54a7ddfb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f68d54a7ddfb.png",
+             "hex": "#2B304A"
             },
             {
              "name": "다크 브라운",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0e6092845d3b8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0e6092845d3b8.png",
+             "hex": "#423633"
             },
             {
              "name": "블랙",
              "detail": "100 · 200 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eb6262d610abe.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eb6262d610abe.png",
+             "hex": "#2B2829"
             }
            ]
           }
@@ -1810,37 +1959,44 @@
             {
              "name": "트랜스패런트 50",
              "detail": "100 · 200 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4158f9985b877.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4158f9985b877.jpg",
+             "hex": "#F1F1F1"
             },
             {
              "name": "트랜스패런트 90",
              "detail": "100 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b600e959be9ae.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b600e959be9ae.jpg",
+             "hex": "#C1E8F2"
             },
             {
              "name": "트랜스패런트 32",
              "detail": "100 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51cbdf2e2c38c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51cbdf2e2c38c.jpg",
+             "hex": "#A0C402"
             },
             {
              "name": "트랜스패런트 31",
              "detail": "100 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f2b572369a4ed.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f2b572369a4ed.jpg",
+             "hex": "#F0CD00"
             },
             {
              "name": "트랜스패런트 35",
              "detail": "100 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a4e4679eb43a4.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a4e4679eb43a4.jpg",
+             "hex": "#FE9300"
             },
             {
              "name": "트랜스패런트 54",
              "detail": "100 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/03dd92c54a19f.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/03dd92c54a19f.jpg",
+             "hex": "#BD151F"
             },
             {
              "name": "트랜스패런트 10",
              "detail": "100 · 200 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d65ffe65eab7c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d65ffe65eab7c.jpg",
+             "hex": "#141414"
             }
            ]
           }
@@ -1902,52 +2058,62 @@
             {
              "name": "50 화이트",
              "detail": "135 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51f1034a87e0e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51f1034a87e0e.png",
+             "hex": "#EEE9EB"
             },
             {
              "name": "27 베이지",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/24f19d2616550.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/24f19d2616550.png",
+             "hex": "#E1CE9A"
             },
             {
              "name": "06 에토프",
              "detail": "135 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cb41b16156eb3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cb41b16156eb3.png",
+             "hex": "#816649"
             },
             {
              "name": "37 다크 브라운",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/af8f32a241ee2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/af8f32a241ee2.png",
+             "hex": "#3B2F2B"
             },
             {
              "name": "57 스톤 그레이",
              "detail": "135 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ac56b169a88e7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ac56b169a88e7.png",
+             "hex": "#656159"
             },
             {
              "name": "10 블랙",
              "detail": "135 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2bc365b3971e7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2bc365b3971e7.png",
+             "hex": "#2A2A2A"
             },
             {
              "name": "89 미드나잇 블루",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2661eb9bc66f2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2661eb9bc66f2.png",
+             "hex": "#1B1C25"
             },
             {
              "name": "14 빈티지 블루",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddf26fc1e4c1a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddf26fc1e4c1a.png",
+             "hex": "#4E6170"
             },
             {
              "name": "16 빈티지 그린",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/37fb1e2a58964.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/37fb1e2a58964.png",
+             "hex": "#5B6148"
             },
             {
              "name": "04 오베르진",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ce0be07b4b7c1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ce0be07b4b7c1.png",
+             "hex": "#633C3E"
             }
            ]
           }
@@ -2013,32 +2179,38 @@
             {
              "name": "화이트 글랜스",
              "detail": "125 · 355 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9e2ed377b1a46.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9e2ed377b1a46.jpg",
+             "hex": "#EDEDED"
             },
             {
              "name": "블러쉬 글랜스",
              "detail": "125 · 355 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/354215b449dae.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/354215b449dae.jpg",
+             "hex": "#EEE5E1"
             },
             {
              "name": "크림 글랜스",
              "detail": "125 · 355 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7415877ac145a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7415877ac145a.jpg",
+             "hex": "#F5F4EB"
             },
             {
              "name": "덜 글랜스",
              "detail": "125 · 355 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b6a4ca9683352.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b6a4ca9683352.jpg",
+             "hex": "#CFC5BD"
             },
             {
              "name": "딥 글랜스",
              "detail": "125 · 355 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/99115af9df8c0.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/99115af9df8c0.jpg",
+             "hex": "#3A3A3A"
             },
             {
              "name": "나이트 글랜스",
              "detail": "125 · 355 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1aad26f0bb33a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1aad26f0bb33a.jpg",
+             "hex": "#34353D"
             }
            ]
           }
@@ -2110,47 +2282,56 @@
             {
              "name": "50 화이트",
              "detail": "170 · 240 · 320 g/m² 1,000 x 700 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5c21067e7f49d.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5c21067e7f49d.jpg",
+             "hex": "#E1E1E1"
             },
             {
              "name": "49 크림",
              "detail": "170 · 240 · 320 g/m² 1,000 x 700 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eeb80554fe80a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eeb80554fe80a.jpg",
+             "hex": "#E8E7DB"
             },
             {
              "name": "84 베이지",
              "detail": "240 · 320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1f49cb08989e2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1f49cb08989e2.png",
+             "hex": "#DDD0C9"
             },
             {
              "name": "23 라이트 그레이",
              "detail": "240 · 320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7136313f40e99.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7136313f40e99.png",
+             "hex": "#BAB5AC"
             },
             {
              "name": "93 멜란지 그레이",
              "detail": "240 · 320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/21e4b038ebbd3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/21e4b038ebbd3.png",
+             "hex": "#858487"
             },
             {
              "name": "87 다크 그레이",
              "detail": "240 · 320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51841d8915e2d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51841d8915e2d.png",
+             "hex": "#2D2D2D"
             },
             {
              "name": "10 블랙",
              "detail": "240 · 320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cddddd5a3ff88.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cddddd5a3ff88.png",
+             "hex": "#131313"
             },
             {
              "name": "59 네이비",
              "detail": "320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/75c18fb38ba05.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/75c18fb38ba05.png",
+             "hex": "#242943"
             },
             {
              "name": "54 레드",
              "detail": "320 g/m² 700 x 1,000 mm",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3647f3dd573b7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3647f3dd573b7.png",
+             "hex": "#8B0E2D"
             }
            ]
           }
@@ -2216,32 +2397,38 @@
             {
              "name": "50 러프 화이트",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62854fafa2313.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62854fafa2313.jpg",
+             "hex": "#EEEEEE"
             },
             {
              "name": "50 러프 화이트 듀오 (양면)",
              "detail": "310 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e3d877ff9c402.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e3d877ff9c402.jpg",
+             "hex": "#EEEEEE"
             },
             {
              "name": "84 러프 베이지",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8a1755283bcc9.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8a1755283bcc9.jpg",
+             "hex": "#E4D9CB"
             },
             {
              "name": "85 웜 그레이",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4783c646e1fa2.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4783c646e1fa2.jpg",
+             "hex": "#C8C2B9"
             },
             {
              "name": "93 스톤 그레이",
              "detail": "120 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ab7bf4beb5c77.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ab7bf4beb5c77.jpg",
+             "hex": "#6F6F6F"
             },
             {
              "name": "16 네이처 그린",
              "detail": "100 · 300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6729d0f276be3.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6729d0f276be3.jpg",
+             "hex": "#4B5947"
             }
            ]
           }
@@ -2320,17 +2507,20 @@
             {
              "name": "5244 크림슨 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/68e07c96b16bd.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/68e07c96b16bd.png",
+             "hex": "#8E2E34"
             },
             {
              "name": "5246 인디고",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4d7f16c4b4bbc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4d7f16c4b4bbc.png",
+             "hex": "#444C5D"
             },
             {
              "name": "5248 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c9adeedb3197b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c9adeedb3197b.png",
+             "hex": "#33332F"
             }
            ]
           }
@@ -2390,57 +2580,68 @@
             {
              "name": "5236 화이트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b1c51538cd715.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b1c51538cd715.png",
+             "hex": "#F7F7F5"
             },
             {
              "name": "5208 크림",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3f137d2d2c88f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3f137d2d2c88f.png",
+             "hex": "#EFE6BA"
             },
             {
              "name": "5214 골드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3a02c770b35cc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3a02c770b35cc.png",
+             "hex": "#A58745"
             },
             {
              "name": "5229 베이비 핑크",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9f9460b0cca74.jpeg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9f9460b0cca74.jpeg",
+             "hex": "#FED0D1"
             },
             {
              "name": "5203 크림슨 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6a8dfd22ebd76.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6a8dfd22ebd76.png",
+             "hex": "#650D0D"
             },
             {
              "name": "5204 딥 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/65e415df602e7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/65e415df602e7.png",
+             "hex": "#491817"
             },
             {
              "name": "5207 다크 초콜렛",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2d849127c59e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2d849127c59e.png",
+             "hex": "#36231C"
             },
             {
              "name": "5213 카라멜",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/093611fe846e0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/093611fe846e0.png",
+             "hex": "#814622"
             },
             {
              "name": "5239 그레이",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/81594d7b99272.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/81594d7b99272.png",
+             "hex": "#6C6862"
             },
             {
              "name": "5219 인디고",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/245c18cc71112.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/245c18cc71112.png",
+             "hex": "#171B2A"
             },
             {
              "name": "5221 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/309e09eef198c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/309e09eef198c.png",
+             "hex": "#202320"
             }
            ]
           }
@@ -2503,42 +2704,50 @@
             {
              "name": "9080 라이트 브라운",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5bd5c9577c1b7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5bd5c9577c1b7.png",
+             "hex": "#A17E5A"
             },
             {
              "name": "9074 미들 브라운",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2593d62858fb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2593d62858fb.png",
+             "hex": "#98653F"
             },
             {
              "name": "9068 레드",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/983bea90b0e4f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/983bea90b0e4f.png",
+             "hex": "#901A24"
             },
             {
              "name": "9079 버건디",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f921877f9caa5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f921877f9caa5.png",
+             "hex": "#5E393D"
             },
             {
              "name": "9073 브라운",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/80139026f9acf.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/80139026f9acf.png",
+             "hex": "#553525"
             },
             {
              "name": "9076 그레이",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cb9932ca1cc82.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cb9932ca1cc82.png",
+             "hex": "#696969"
             },
             {
              "name": "9078 네이비",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b6419d7fc805a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b6419d7fc805a.png",
+             "hex": "#2A2F46"
             },
             {
              "name": "9071 블랙",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/939dfc336e988.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/939dfc336e988.png",
+             "hex": "#2D2D2D"
             }
            ]
           }
@@ -2595,17 +2804,20 @@
             {
              "name": "5297 헤나",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/78598db024b79.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/78598db024b79.png",
+             "hex": "#543A40"
             },
             {
              "name": "5300 인디고",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d57056031dfbb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d57056031dfbb.png",
+             "hex": "#434756"
             },
             {
              "name": "5310 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/69829e2667cfe.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/69829e2667cfe.png",
+             "hex": "#464646"
             }
            ]
           }
@@ -2662,32 +2874,38 @@
             {
              "name": "5436 화이트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d8164b24188cc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d8164b24188cc.png",
+             "hex": "#E4E0D7"
             },
             {
              "name": "5409 아이보리",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/faa1c94642e8a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/faa1c94642e8a.png",
+             "hex": "#EBE4BE"
             },
             {
              "name": "5403 크림슨 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fc0d5d9f1d988.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fc0d5d9f1d988.png",
+             "hex": "#813C42"
             },
             {
              "name": "5404 딥 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0576efcabb5cc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0576efcabb5cc.png",
+             "hex": "#603135"
             },
             {
              "name": "5419 인디고",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f315aacd009b8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f315aacd009b8.png",
+             "hex": "#354059"
             },
             {
              "name": "5421 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/07c21f455110d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/07c21f455110d.png",
+             "hex": "#4C4C4C"
             }
            ]
           }
@@ -2749,52 +2967,62 @@
             {
              "name": "816 탠저린",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a39c4310ecb67.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a39c4310ecb67.png",
+             "hex": "#E06E01"
             },
             {
              "name": "812 립스틱",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9cf85bbb41973.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9cf85bbb41973.png",
+             "hex": "#A80A24"
             },
             {
              "name": "810 멀베리",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4d73bf62ee913.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4d73bf62ee913.png",
+             "hex": "#5D1F41"
             },
             {
              "name": "815 초콜렛",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/66cb8a161cf2f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/66cb8a161cf2f.png",
+             "hex": "#582D1E"
             },
             {
              "name": "814 코냑",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b5102e548cda9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b5102e548cda9.png",
+             "hex": "#9C6A36"
             },
             {
              "name": "818 페리도트",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/69ec6bbf4281e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/69ec6bbf4281e.png",
+             "hex": "#537734"
             },
             {
              "name": "821 터쿼이즈",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0ae7baf791a3e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0ae7baf791a3e.png",
+             "hex": "#01659A"
             },
             {
              "name": "820 마린",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b5195304a5fdc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b5195304a5fdc.png",
+             "hex": "#19293E"
             },
             {
              "name": "823 퍼플",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/297d398680fa1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/297d398680fa1.png",
+             "hex": "#2B0858"
             },
             {
              "name": "825 프로스트",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/373974488a59e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/373974488a59e.png",
+             "hex": "#FDF4F7"
             }
            ]
           }
@@ -2851,97 +3079,116 @@
             {
              "name": "5536 화이트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e1f47925b1cb9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e1f47925b1cb9.png",
+             "hex": "#E1DDD5"
             },
             {
              "name": "5508 크림",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d9cfb2b1c9de8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d9cfb2b1c9de8.png",
+             "hex": "#E7DBB1"
             },
             {
              "name": "5510 바나나",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/11d85b92d54d7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/11d85b92d54d7.png",
+             "hex": "#E1B64D"
             },
             {
              "name": "5538 모카 베이지",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/341460f6e262b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/341460f6e262b.png",
+             "hex": "#786152"
             },
             {
              "name": "5540 머드 그레이",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ce45c630a5bf.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ce45c630a5bf.png",
+             "hex": "#5E564F"
             },
             {
              "name": "5522 민트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1ba03c4143b6a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1ba03c4143b6a.png",
+             "hex": "#6BC8A2"
             },
             {
              "name": "5523 에메랄드 그린",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dda3b1727f665.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dda3b1727f665.png",
+             "hex": "#2E8265"
             },
             {
              "name": "5524 피콕 그린",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f8170730c917f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f8170730c917f.png",
+             "hex": "#085E57"
             },
             {
              "name": "5527 가든 그린",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9f5496b5063c2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9f5496b5063c2.png",
+             "hex": "#1A270F"
             },
             {
              "name": "5515 스카이 블루",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2e0e9bb15e7e5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2e0e9bb15e7e5.png",
+             "hex": "#5E87B0"
             },
             {
              "name": "5516 미들 블루",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/090dd111c0649.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/090dd111c0649.png",
+             "hex": "#465285"
             },
             {
              "name": "5517 임페리얼 블루",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6cf343350148c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6cf343350148c.png",
+             "hex": "#1B2D54"
             },
             {
              "name": "5519 인디고",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9ec67edcc8972.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9ec67edcc8972.png",
+             "hex": "#182236"
             },
             {
              "name": "5533 그레이프",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1855e6b7b06d0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1855e6b7b06d0.png",
+             "hex": "#3B2D4B"
             },
             {
              "name": "5501 스칼렛",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/76b05e54aaaed.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/76b05e54aaaed.png",
+             "hex": "#A3281A"
             },
             {
              "name": "5503 크림슨 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1e0b5c2e67dd1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1e0b5c2e67dd1.png",
+             "hex": "#7F1D1C"
             },
             {
              "name": "5505 버건디",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d377d1e22ed4c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d377d1e22ed4c.png",
+             "hex": "#622620"
             },
             {
              "name": "5507 다크 초콜렛",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0c08037f3ce4c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0c08037f3ce4c.png",
+             "hex": "#3E2C27"
             },
             {
              "name": "5521 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8937452a60dfa.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8937452a60dfa.png",
+             "hex": "#191919"
             }
            ]
           }
@@ -3002,42 +3249,50 @@
             {
              "name": "6026 페일 핑크",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ceb03ac15eab9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ceb03ac15eab9.png",
+             "hex": "#F0BFC9"
             },
             {
              "name": "6025 라일락",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6c13d75ecfe0f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6c13d75ecfe0f.png",
+             "hex": "#D5C0E0"
             },
             {
              "name": "6022 페일 블루",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e573bd19d4177.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e573bd19d4177.png",
+             "hex": "#BAD5E0"
             },
             {
              "name": "6027 아이보리",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8b50ac9794f4d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8b50ac9794f4d.png",
+             "hex": "#F6EFD6"
             },
             {
              "name": "6019 페일 옐로우",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ad6ad48dc82e1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ad6ad48dc82e1.png",
+             "hex": "#F6E5B0"
             },
             {
              "name": "6018 코랄",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9752b068b999d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9752b068b999d.png",
+             "hex": "#FAB4A6"
             },
             {
              "name": "6016 레드",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/649772f5f387a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/649772f5f387a.jpg",
+             "hex": "#A5343C"
             },
             {
              "name": "6028 블랙",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8999e95649b97.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8999e95649b97.png",
+             "hex": "#222222"
             }
            ]
           }
@@ -3097,62 +3352,74 @@
             {
              "name": "4407 화이트",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4f3fa7373bc93.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4f3fa7373bc93.png",
+             "hex": "#D9DAD1"
             },
             {
              "name": "4408 베이지",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d1b7230a0fc4b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d1b7230a0fc4b.png",
+             "hex": "#D7D5C6"
             },
             {
              "name": "4404 탄",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f2740a1d7b775.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f2740a1d7b775.png",
+             "hex": "#D9B78C"
             },
             {
              "name": "4406 테라코타",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/415e14afb0c39.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/415e14afb0c39.png",
+             "hex": "#BE6B4A"
             },
             {
              "name": "4415 그레이",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/14a78548e48a3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/14a78548e48a3.png",
+             "hex": "#4A504F"
             },
             {
              "name": "4413 카키",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/53227080c1d0b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/53227080c1d0b.png",
+             "hex": "#444435"
             },
             {
              "name": "4412 다크 그린",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b14d3bcfc6d42.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b14d3bcfc6d42.png",
+             "hex": "#202F24"
             },
             {
              "name": "4409 네이비",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e18fb00ac6f36.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e18fb00ac6f36.png",
+             "hex": "#1C2129"
             },
             {
              "name": "4414 블랙",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d536310b4bcac.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d536310b4bcac.png",
+             "hex": "#161915"
             },
             {
              "name": "4402 버건디",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/41c7569a7f4bd.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/41c7569a7f4bd.png",
+             "hex": "#4B2423"
             },
             {
              "name": "4401 레드",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/049ebda8653b6.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/049ebda8653b6.png",
+             "hex": "#931814"
             },
             {
              "name": "4403 핑크",
              "detail": "160 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/13f98da7907bc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/13f98da7907bc.png",
+             "hex": "#D9A5A4"
             }
            ]
           }
@@ -3214,127 +3481,152 @@
             {
              "name": "화이트",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/856c6c9492eba.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/856c6c9492eba.png",
+             "hex": "#F6F6F6"
             },
             {
              "name": "크림",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/304f679ec9d74.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/304f679ec9d74.png",
+             "hex": "#EDE3BF"
             },
             {
              "name": "라탄",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b435eda5d51e3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b435eda5d51e3.png",
+             "hex": "#DFD3B3"
             },
             {
              "name": "샌드파이퍼",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2fbbca478c3e5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2fbbca478c3e5.png",
+             "hex": "#B8B6A4"
             },
             {
              "name": "메도우 그레이",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ec2346bc3946a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ec2346bc3946a.png",
+             "hex": "#6C7D75"
             },
             {
              "name": "씨들링",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5b01ca499119b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5b01ca499119b.png",
+             "hex": "#9CAD43"
             },
             {
              "name": "그라스",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f94c592b31006.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f94c592b31006.png",
+             "hex": "#498425"
             },
             {
              "name": "페리윙클",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/32177a470a561.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/32177a470a561.png",
+             "hex": "#5C5778"
             },
             {
              "name": "바나나",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e4aff76c76870.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e4aff76c76870.png",
+             "hex": "#F0C75A"
             },
             {
              "name": "탠저린",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/db68d1cbba68e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/db68d1cbba68e.png",
+             "hex": "#D55528"
             },
             {
              "name": "카디날",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2fc1f04949537.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2fc1f04949537.png",
+             "hex": "#7E241C"
             },
             {
              "name": "카네이션",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/817fd5737f349.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/817fd5737f349.png",
+             "hex": "#E9B2B3"
             },
             {
              "name": "타탄 레드",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/15bf2e2378542.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/15bf2e2378542.png",
+             "hex": "#6A2025"
             },
             {
              "name": "퍼시몬",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8bb8b9a49be56.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8bb8b9a49be56.png",
+             "hex": "#4D282A"
             },
             {
              "name": "블랙베리",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0858d94b2ca4b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0858d94b2ca4b.png",
+             "hex": "#382632"
             },
             {
              "name": "진저브레드",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/94e68e9cedc26.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/94e68e9cedc26.jpg",
+             "hex": "#96551F"
             },
             {
              "name": "튜더 브라운",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/902f4c709c53f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/902f4c709c53f.png",
+             "hex": "#3F2823"
             },
             {
              "name": "리프 그린",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62ea3afa9c45f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62ea3afa9c45f.png",
+             "hex": "#243C29"
             },
             {
              "name": "그린우드",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/faa005cc0b12c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/faa005cc0b12c.png",
+             "hex": "#20342D"
             },
             {
              "name": "블루 보닛",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bd77577e4bb4e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bd77577e4bb4e.png",
+             "hex": "#7DB5C4"
             },
             {
              "name": "내셔널 블루",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2dff96bc061f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2dff96bc061f.png",
+             "hex": "#2C458E"
             },
             {
              "name": "뉴포트 블루",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4c1883b101d54.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4c1883b101d54.png",
+             "hex": "#232A41"
             },
             {
              "name": "패트리엇 블루",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3ae020e70ffaa.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3ae020e70ffaa.png",
+             "hex": "#212637"
             },
             {
              "name": "슬레이트 그레이",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6317e1a406e9c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6317e1a406e9c.png",
+             "hex": "#73716B"
             },
             {
              "name": "블랙",
              "detail": "140 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a10b173657c32.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a10b173657c32.png",
+             "hex": "#1A1C19"
             }
            ]
           }
@@ -3402,62 +3694,74 @@
             {
              "name": "브라이트 화이트",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a647da7ed4021.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a647da7ed4021.png",
+             "hex": "#FDFDFD"
             },
             {
              "name": "화이트",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0e4cc0ca1e57d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0e4cc0ca1e57d.png",
+             "hex": "#EDEDE8"
             },
             {
              "name": "쿨 그레이",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/adca92b9350f1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/adca92b9350f1.png",
+             "hex": "#DCEBED"
             },
             {
              "name": "슬레이트 블루",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/629cc576a9700.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/629cc576a9700.png",
+             "hex": "#304B55"
             },
             {
              "name": "스털링",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/860cbf2a8acd9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/860cbf2a8acd9.png",
+             "hex": "#B2B3AB"
             },
             {
              "name": "퓨터",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dfb9a22973436.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dfb9a22973436.png",
+             "hex": "#766E68"
             },
             {
              "name": "라피스",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3ce019f690bf5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3ce019f690bf5.png",
+             "hex": "#253044"
             },
             {
              "name": "콩코드",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2f98b23e59edb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2f98b23e59edb.png",
+             "hex": "#271E46"
             },
             {
              "name": "스칼렛",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1dd68396214dc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1dd68396214dc.png",
+             "hex": "#A12F33"
             },
             {
              "name": "버건디",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cbd43f52672ab.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cbd43f52672ab.png",
+             "hex": "#733334"
             },
             {
              "name": "밍크",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ff5db2ae59428.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ff5db2ae59428.png",
+             "hex": "#432F2B"
             },
             {
              "name": "블랙",
              "detail": "300 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/39f418aff471b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/39f418aff471b.png",
+             "hex": "#1F2420"
             }
            ]
           }
@@ -3517,27 +3821,32 @@
             {
              "name": "9169 화이트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f051a877d1113.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f051a877d1113.jpg",
+             "hex": "#E2E2E2"
             },
             {
              "name": "9151 루비 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f461b61606658.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f461b61606658.jpg",
+             "hex": "#590101"
             },
             {
              "name": "9147 브라운",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9fc03a890a525.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9fc03a890a525.jpg",
+             "hex": "#2E1B05"
             },
             {
              "name": "9163 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9a0076fea3aab.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9a0076fea3aab.jpg",
+             "hex": "#0F0F0F"
             },
             {
              "name": "9155 블루",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f370afee39a99.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f370afee39a99.jpg",
+             "hex": "#07213E"
             }
            ]
           }
@@ -3597,47 +3906,56 @@
             {
              "name": "21116 화이트",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddd4d72277711.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddd4d72277711.png",
+             "hex": "#F9FAF7"
             },
             {
              "name": "21114 그레이",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8137ac20c1e28.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8137ac20c1e28.jpg",
+             "hex": "#5F5F5F"
             },
             {
              "name": "21105 네이비",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2290ad59a746d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2290ad59a746d.png",
+             "hex": "#2A2D33"
             },
             {
              "name": "21115 블랙",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/47fdb2f30bbf0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/47fdb2f30bbf0.png",
+             "hex": "#212322"
             },
             {
              "name": "21113 브라운",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ebbb92d9c9c32.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ebbb92d9c9c32.png",
+             "hex": "#3F3126"
             },
             {
              "name": "21110 헤나",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/484ba008249c6.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/484ba008249c6.png",
+             "hex": "#432723"
             },
             {
              "name": "21109 카디날",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5fddc81567ad8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5fddc81567ad8.png",
+             "hex": "#6F2328"
             },
             {
              "name": "21104 파인",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8801e735f89af.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8801e735f89af.png",
+             "hex": "#29362D"
             },
             {
              "name": "21106 라피스",
              "detail": "150 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a37ef5194ce69.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a37ef5194ce69.png",
+             "hex": "#273254"
             }
            ]
           }
@@ -3694,7 +4012,8 @@
             {
              "name": "5350 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/adb8fbdc17c21.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/adb8fbdc17c21.png",
+             "hex": "#252526"
             }
            ]
           }
@@ -3751,32 +4070,38 @@
             {
              "name": "5253 화이트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/23f3c8699c1cb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/23f3c8699c1cb.png",
+             "hex": "#D3D3D0"
             },
             {
              "name": "5249 크림슨 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dc671fde8ff3d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dc671fde8ff3d.png",
+             "hex": "#892226"
             },
             {
              "name": "5250 딥 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/350eb927b1696.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/350eb927b1696.png",
+             "hex": "#4F1C1D"
             },
             {
              "name": "5251 인디고",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9b9ae485bfe95.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9b9ae485bfe95.png",
+             "hex": "#1D1E29"
             },
             {
              "name": "5252 다크 그린",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/49aca6f8fceed.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/49aca6f8fceed.png",
+             "hex": "#1A2B1F"
             },
             {
              "name": "5254 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/967dbf1ce3ea3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/967dbf1ce3ea3.png",
+             "hex": "#171717"
             }
            ]
           }
@@ -3834,27 +4159,32 @@
             {
              "name": "9195 화이트",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f07f2598b43bf.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f07f2598b43bf.jpg",
+             "hex": "#D7D7D7"
             },
             {
              "name": "9176 루비 레드",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cec4a471cfe53.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cec4a471cfe53.jpg",
+             "hex": "#5B0001"
             },
             {
              "name": "9173 브라운",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fa96563d776db.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fa96563d776db.jpg",
+             "hex": "#1B0801"
             },
             {
              "name": "9188 블랙",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/67546d714e1d4.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/67546d714e1d4.jpg",
+             "hex": "#0F0F0F"
             },
             {
              "name": "9180 블루",
              "detail": "185 g/m²",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1df09b78fa579.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1df09b78fa579.jpg",
+             "hex": "#0F1935"
             }
            ]
           }
@@ -3938,82 +4268,98 @@
             {
              "name": "E936 화이트 오크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/478ae4cebbc33.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/478ae4cebbc33.png",
+             "hex": "#D3C8B3"
             },
             {
              "name": "E937 파인우드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3024c43d02c86.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3024c43d02c86.png",
+             "hex": "#CBA583"
             },
             {
              "name": "E935 내추럴 우드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d8dd905b4f1ba.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d8dd905b4f1ba.png",
+             "hex": "#966E4D"
             },
             {
              "name": "E945 오크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/66bd7a15fef63.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/66bd7a15fef63.png",
+             "hex": "#825136"
             },
             {
              "name": "E943 앤틱 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a492dafa2440f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a492dafa2440f.png",
+             "hex": "#452D23"
             },
             {
              "name": "E944 다크 월넛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/77d54d15a9196.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/77d54d15a9196.png",
+             "hex": "#2D1D17"
             },
             {
              "name": "E946 워시 월넛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f9be0858637b0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f9be0858637b0.png",
+             "hex": "#686257"
             },
             {
              "name": "E964 빈티지 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a72d6c0aa33de.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a72d6c0aa33de.png",
+             "hex": "#363334"
             },
             {
              "name": "E961 옐로우",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5a7c62f8c8318.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5a7c62f8c8318.png",
+             "hex": "#FCC903"
             },
             {
              "name": "E959 그린티",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91d353917e7ee.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91d353917e7ee.png",
+             "hex": "#92AA31"
             },
             {
              "name": "E958 포레스트",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bc660753fa121.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bc660753fa121.png",
+             "hex": "#23452E"
             },
             {
              "name": "E953 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f5609fcc0aa1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5f5609fcc0aa1.png",
+             "hex": "#2A3947"
             },
             {
              "name": "E951 베이비 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/df040600bbc56.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/df040600bbc56.png",
+             "hex": "#FCA799"
             },
             {
              "name": "E950 로즈 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/56d49c4b8e99e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/56d49c4b8e99e.png",
+             "hex": "#973955"
             },
             {
              "name": "E948 로즈 우드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddd752db30888.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddd752db30888.png",
+             "hex": "#6F2B2C"
             },
             {
              "name": "E962 바이올렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f6f852cc44245.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f6f852cc44245.png",
+             "hex": "#55346E"
             }
            ]
           }
@@ -4079,82 +4425,98 @@
             {
              "name": "4916 카라멜",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d6b94f815a236.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d6b94f815a236.png",
+             "hex": "#966A48"
             },
             {
              "name": "4898 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/509428a3468cf.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/509428a3468cf.png",
+             "hex": "#825336"
             },
             {
              "name": "A188 탄",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e89c29b2eb5b2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e89c29b2eb5b2.png",
+             "hex": "#69412D"
             },
             {
              "name": "F921 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5c4d88b5d4352.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5c4d88b5d4352.png",
+             "hex": "#3D2F26"
             },
             {
              "name": "A858 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fc21d38fffa71.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fc21d38fffa71.jpg",
+             "hex": "#D6681C"
             },
             {
              "name": "4872 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f6c806df70fb1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f6c806df70fb1.png",
+             "hex": "#992E28"
             },
             {
              "name": "4746 빈티지 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/234a6d391b73a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/234a6d391b73a.png",
+             "hex": "#7A2528"
             },
             {
              "name": "4918 와인",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7f1d9f5b1b41f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7f1d9f5b1b41f.png",
+             "hex": "#4F3135"
             },
             {
              "name": "4720 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ad333cdbff980.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ad333cdbff980.png",
+             "hex": "#2E4F3A"
             },
             {
              "name": "4727 딥 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/59290dd58fe6f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/59290dd58fe6f.png",
+             "hex": "#25332A"
             },
             {
              "name": "4920 라벤더",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ce0704093cd81.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ce0704093cd81.png",
+             "hex": "#4C5072"
             },
             {
              "name": "4890 딥 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d079210d85aa1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d079210d85aa1.png",
+             "hex": "#292A5E"
             },
             {
              "name": "4716 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3e0ff65cff59e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3e0ff65cff59e.png",
+             "hex": "#293248"
             },
             {
              "name": "4882 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9003393756d72.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9003393756d72.png",
+             "hex": "#6A6B66"
             },
             {
              "name": "4708 다크 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7d668c0372023.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7d668c0372023.png",
+             "hex": "#555651"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/73afcbabfa744.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/73afcbabfa744.png",
+             "hex": "#242422"
             }
            ]
           }
@@ -4219,82 +4581,98 @@
             {
              "name": "D723 베이비 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/44142b2d61542.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/44142b2d61542.jpg",
+             "hex": "#F4B8B5"
             },
             {
              "name": "G389 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/001a4d448d5ae.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/001a4d448d5ae.jpg",
+             "hex": "#9C1C1C"
             },
             {
              "name": "G397 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/07deb022a4e43.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/07deb022a4e43.jpg",
+             "hex": "#372E23"
             },
             {
              "name": "G398 베이지 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cfa4074e1f31f.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cfa4074e1f31f.jpg",
+             "hex": "#AEA596"
             },
             {
              "name": "H212 더스티 베이지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8cda859c75808.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8cda859c75808.jpg",
+             "hex": "#AA9A7B"
             },
             {
              "name": "H211 아이보리",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/011cad80dfaf5.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/011cad80dfaf5.jpg",
+             "hex": "#E7E2CB"
             },
             {
              "name": "G387 옐로우",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c8eff262374eb.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c8eff262374eb.jpg",
+             "hex": "#F1AB01"
             },
             {
              "name": "H214 올리브",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1f27d69e92e77.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1f27d69e92e77.jpg",
+             "hex": "#485C28"
             },
             {
              "name": "G394 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ce3c0ce01e75.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ce3c0ce01e75.jpg",
+             "hex": "#1E3622"
             },
             {
              "name": "G393 라이트 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0d52304315f98.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0d52304315f98.jpg",
+             "hex": "#177FF4"
             },
             {
              "name": "B041 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6b5ebcdcaa0be.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6b5ebcdcaa0be.jpg",
+             "hex": "#1E2B3E"
             },
             {
              "name": "G392 바이올렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/884f1a7bf6771.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/884f1a7bf6771.jpg",
+             "hex": "#3E314B"
             },
             {
              "name": "BIANCO 화이트",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/69f8dd57feb24.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/69f8dd57feb24.jpg",
+             "hex": "#F0F0F0"
             },
             {
              "name": "H331 라이트 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9f59035c9d4a8.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9f59035c9d4a8.jpg",
+             "hex": "#CDCBC9"
             },
             {
              "name": "B044 다크 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/98cffae4d3e52.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/98cffae4d3e52.jpg",
+             "hex": "#3A3A3A"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1487266140124.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1487266140124.jpg",
+             "hex": "#1F1F1F"
             }
            ]
           }
@@ -4356,32 +4734,38 @@
             {
              "name": "F335 오트밀",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c751d8d675bf5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c751d8d675bf5.png",
+             "hex": "#A88A58"
             },
             {
              "name": "F352 페일 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/617ffe3890252.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/617ffe3890252.png",
+             "hex": "#79A3AF"
             },
             {
              "name": "F356 인디고",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8ca7a4b9b2c67.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8ca7a4b9b2c67.png",
+             "hex": "#1F2227"
             },
             {
              "name": "F341 초콜렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/35623c2e6f5b0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/35623c2e6f5b0.png",
+             "hex": "#3B2A24"
             },
             {
              "name": "F357 라이트 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1d211b3f36248.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1d211b3f36248.png",
+             "hex": "#606059"
             },
             {
              "name": "F359 보카시 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9d78a7b5df7a3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9d78a7b5df7a3.png",
+             "hex": "#252525"
             }
            ]
           }
@@ -4444,32 +4828,38 @@
             {
              "name": "A219 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fac00d3394198.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fac00d3394198.jpg",
+             "hex": "#733813"
             },
             {
              "name": "E765 탄",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/424ac4713d835.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/424ac4713d835.jpg",
+             "hex": "#6C4014"
             },
             {
              "name": "E080 버건디",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e308dbc3fb528.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e308dbc3fb528.jpg",
+             "hex": "#581620"
             },
             {
              "name": "E767 와인",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8d08d93dbd6a3.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8d08d93dbd6a3.jpg",
+             "hex": "#45181E"
             },
             {
              "name": "E769 미드나잇 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/95bc4ad2e72b7.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/95bc4ad2e72b7.jpg",
+             "hex": "#202533"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddcc4c54f5d43.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddcc4c54f5d43.jpg",
+             "hex": "#1F1F1F"
             }
            ]
           }
@@ -4536,107 +4926,128 @@
             {
              "name": "F711 머드 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/41bfc27f6189f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/41bfc27f6189f.png",
+             "hex": "#9A8C81"
             },
             {
              "name": "B031 베이지 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cf285cb85b71a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cf285cb85b71a.png",
+             "hex": "#8C623E"
             },
             {
              "name": "B033 밀크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/16866f3657ec1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/16866f3657ec1.png",
+             "hex": "#7A4C32"
             },
             {
              "name": "B032 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e1884be83700f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e1884be83700f.png",
+             "hex": "#914E28"
             },
             {
              "name": "F845 애쉬 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a571c1ce77ca4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a571c1ce77ca4.png",
+             "hex": "#5A3E2E"
             },
             {
              "name": "D734 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b2ccb856695a4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b2ccb856695a4.png",
+             "hex": "#3A2B23"
             },
             {
              "name": "B043 미들 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bddb2b64e78e5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bddb2b64e78e5.png",
+             "hex": "#79736F"
             },
             {
              "name": "B044 다크 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6d24171d7c027.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6d24171d7c027.png",
+             "hex": "#4B4743"
             },
             {
              "name": "F709 올리브 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2c6983110234e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2c6983110234e.png",
+             "hex": "#394F25"
             },
             {
              "name": "B038 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b41f70eb406fa.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b41f70eb406fa.jpg",
+             "hex": "#2A4337"
             },
             {
              "name": "D722 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c09fe1bae51c5.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c09fe1bae51c5.jpg",
+             "hex": "#2A3833"
             },
             {
              "name": "NERO A 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/32cb15d48b000.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/32cb15d48b000.png",
+             "hex": "#181818"
             },
             {
              "name": "D729 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e73ec5694c436.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e73ec5694c436.jpg",
+             "hex": "#25528C"
             },
             {
              "name": "B040 로얄 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/83c0d55b2a496.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/83c0d55b2a496.jpg",
+             "hex": "#273569"
             },
             {
              "name": "B041 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5febd16cf1e81.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5febd16cf1e81.png",
+             "hex": "#2A2F4A"
             },
             {
              "name": "B042 다크 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1c4d96c943207.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1c4d96c943207.png",
+             "hex": "#292B38"
             },
             {
              "name": "F700 코랄 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f27112cc2d0a0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f27112cc2d0a0.png",
+             "hex": "#ED7F6C"
             },
             {
              "name": "D732 스트로베리",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/786e80a2b2579.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/786e80a2b2579.png",
+             "hex": "#A13737"
             },
             {
              "name": "B034 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b2d728c6185f9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b2d728c6185f9.png",
+             "hex": "#832F30"
             },
             {
              "name": "D726 바이올렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/04d8419870fbb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/04d8419870fbb.png",
+             "hex": "#4D2A55"
             },
             {
              "name": "B036 레드 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8925b536eaa34.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8925b536eaa34.png",
+             "hex": "#442B29"
             }
            ]
           }
@@ -4701,87 +5112,104 @@
             {
              "name": "F332 옐로우",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7704a722facd4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7704a722facd4.png",
+             "hex": "#F6BF1F"
             },
             {
              "name": "F334 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8681a4a28c844.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8681a4a28c844.png",
+             "hex": "#D25C2E"
             },
             {
              "name": "F345 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0eb998305e7ce.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0eb998305e7ce.png",
+             "hex": "#952C2B"
             },
             {
              "name": "F346 바이롤렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3725d474de4c0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3725d474de4c0.png",
+             "hex": "#895A92"
             },
             {
              "name": "F351 포레스트",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9e967bc9be08a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9e967bc9be08a.png",
+             "hex": "#2F3B1F"
             },
             {
              "name": "F353 비비드 스카이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/afda9968c896b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/afda9968c896b.png",
+             "hex": "#1973A9"
             },
             {
              "name": "F355 다크 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1ea2462a750db.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1ea2462a750db.png",
+             "hex": "#393C63"
             },
             {
              "name": "F356 인디고",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/681f72d44da47.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/681f72d44da47.png",
+             "hex": "#1E2635"
             },
             {
              "name": "F336 베이지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/942f4f8854530.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/942f4f8854530.png",
+             "hex": "#A49C86"
             },
             {
              "name": "F335 오트밀",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/73fd740ed217f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/73fd740ed217f.png",
+             "hex": "#CDB16C"
             },
             {
              "name": "F338 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e68263483992a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e68263483992a.png",
+             "hex": "#7D5337"
             },
             {
              "name": "F339 레드 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/33b09335297f1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/33b09335297f1.png",
+             "hex": "#774339"
             },
             {
              "name": "F340 와인",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/28c859e741c5a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/28c859e741c5a.png",
+             "hex": "#46242F"
             },
             {
              "name": "F341 초콜렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fd05099735744.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fd05099735744.png",
+             "hex": "#41332A"
             },
             {
              "name": "F357 라이트 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e2809d29559a1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e2809d29559a1.png",
+             "hex": "#9A9894"
             },
             {
              "name": "F358 차콜 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/262472bc7d435.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/262472bc7d435.png",
+             "hex": "#62605E"
             },
             {
              "name": "F359 보카시 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/89bcca9e564a1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/89bcca9e564a1.png",
+             "hex": "#302E2B"
             }
            ]
           }
@@ -4848,132 +5276,158 @@
             {
              "name": "E998 샌드 베이지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5d7250f8a0c9f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5d7250f8a0c9f.png",
+             "hex": "#CAB383"
             },
             {
              "name": "4916 카라멜",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6728e1679990d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6728e1679990d.png",
+             "hex": "#A46D48"
             },
             {
              "name": "4655 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6cba9aeefc6ad.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6cba9aeefc6ad.png",
+             "hex": "#65412C"
             },
             {
              "name": "E676 애쉬 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/49fa652c10dd0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/49fa652c10dd0.png",
+             "hex": "#665444"
             },
             {
              "name": "4884 버건디",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8cde7b39c96c3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8cde7b39c96c3.png",
+             "hex": "#432025"
             },
             {
              "name": "4654 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8ccc234514730.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8ccc234514730.png",
+             "hex": "#412B29"
             },
             {
              "name": "E280 옐로우",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4bdb3a532b26f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4bdb3a532b26f.png",
+             "hex": "#FCB502"
             },
             {
              "name": "E475 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c78135b94a280.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c78135b94a280.png",
+             "hex": "#DB5A29"
             },
             {
              "name": "A464 베이비 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4b6f9557f6936.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4b6f9557f6936.png",
+             "hex": "#D8988F"
             },
             {
              "name": "E479 비비드 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/81fbedde4f632.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/81fbedde4f632.png",
+             "hex": "#D8021F"
             },
             {
              "name": "4872 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/752d81b4d4c58.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/752d81b4d4c58.png",
+             "hex": "#A80311"
             },
             {
              "name": "4718 딥 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9111bf74b8350.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9111bf74b8350.png",
+             "hex": "#70252F"
             },
             {
              "name": "F143 제이드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/610994f5d4c74.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/610994f5d4c74.png",
+             "hex": "#477577"
             },
             {
              "name": "B915 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8df320ef85db2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8df320ef85db2.png",
+             "hex": "#124282"
             },
             {
              "name": "D454 다크 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/092755645f2af.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/092755645f2af.png",
+             "hex": "#1D1B5B"
             },
             {
              "name": "4716 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8185aa58749a9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8185aa58749a9.png",
+             "hex": "#242440"
             },
             {
              "name": "B918 라임",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/56af80a3a79e6.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/56af80a3a79e6.png",
+             "hex": "#C6DD48"
             },
             {
              "name": "4720 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/01572a29572b7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/01572a29572b7.png",
+             "hex": "#27412F"
             },
             {
              "name": "4730 피코크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3232cda7eb8f1.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3232cda7eb8f1.png",
+             "hex": "#1A424C"
             },
             {
              "name": "B923 라이트 퍼플",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7267119dfe16f.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7267119dfe16f.jpg",
+             "hex": "#8D8CBF"
             },
             {
              "name": "E278 라이트 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/190250fbc6a1d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/190250fbc6a1d.png",
+             "hex": "#B3AEA9"
             },
             {
              "name": "B919 코코아 파우더",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f475735190b27.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f475735190b27.png",
+             "hex": "#968E83"
             },
             {
              "name": "4882 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bec6cedd385bc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bec6cedd385bc.png",
+             "hex": "#787676"
             },
             {
              "name": "4708 다크 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/570a1f77adf78.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/570a1f77adf78.png",
+             "hex": "#494648"
             },
             {
              "name": "4687 소프트 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7ed3232f6ef1a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7ed3232f6ef1a.png",
+             "hex": "#2A292E"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2af2140539efd.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2af2140539efd.png",
+             "hex": "#151517"
             }
            ]
           }
@@ -5036,47 +5490,56 @@
             {
              "name": "G324 베이지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0c46ba54e6a37.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0c46ba54e6a37.png",
+             "hex": "#9F947A"
             },
             {
              "name": "G333 페일 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9abfec9fddeb0.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9abfec9fddeb0.png",
+             "hex": "#BB7A79"
             },
             {
              "name": "G338 페일 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8a79e237e0d57.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8a79e237e0d57.jpg",
+             "hex": "#93ABB3"
             },
             {
              "name": "G340 인디고",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/05add8514805d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/05add8514805d.png",
+             "hex": "#182228"
             },
             {
              "name": "G326 선셋 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b3dbeaf78922a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b3dbeaf78922a.png",
+             "hex": "#AA7758"
             },
             {
              "name": "G327 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/15ab1c196e154.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/15ab1c196e154.png",
+             "hex": "#634231"
             },
             {
              "name": "G330 초콜렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c805d28fe3023.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c805d28fe3023.png",
+             "hex": "#2F241F"
             },
             {
              "name": "G342 차콜 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dd353ec56f200.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/dd353ec56f200.png",
+             "hex": "#4F4F4B"
             },
             {
              "name": "G343 보카시 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6e8b1c6e429fc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6e8b1c6e429fc.png",
+             "hex": "#242524"
             }
            ]
           }
@@ -5139,32 +5602,38 @@
             {
              "name": "F898 화이트 오크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bd07378dc5186.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bd07378dc5186.jpg",
+             "hex": "#9E998B"
             },
             {
              "name": "F899 워시 월넛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4e3c43f873a98.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4e3c43f873a98.jpg",
+             "hex": "#706760"
             },
             {
              "name": "F900 내추럴 우드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b353fedb0e5e6.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b353fedb0e5e6.jpg",
+             "hex": "#7A5E47"
             },
             {
              "name": "F901 앤틱 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fc4366a20decb.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fc4366a20decb.jpg",
+             "hex": "#5A3E2F"
             },
             {
              "name": "F902 다크 월넛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bc37981fde628.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bc37981fde628.png",
+             "hex": "#36221A"
             },
             {
              "name": "F912 포레스트",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/24f41d1d0c89a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/24f41d1d0c89a.png",
+             "hex": "#274A32"
             }
            ]
           }
@@ -5228,52 +5697,62 @@
             {
              "name": "E764 베이지 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b5f216f6029dd.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b5f216f6029dd.png",
+             "hex": "#9E7450"
             },
             {
              "name": "E765 탄",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4f6ba178a9396.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4f6ba178a9396.png",
+             "hex": "#683E29"
             },
             {
              "name": "E766 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4a9da76b7a87f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4a9da76b7a87f.png",
+             "hex": "#783E27"
             },
             {
              "name": "A279 레드 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8b237bde720bd.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8b237bde720bd.png",
+             "hex": "#6B3226"
             },
             {
              "name": "A277 크림슨 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4b1db250f40d9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/4b1db250f40d9.png",
+             "hex": "#931F21"
             },
             {
              "name": "E080 버건디",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9bce8bc43f6f8.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9bce8bc43f6f8.png",
+             "hex": "#541D21"
             },
             {
              "name": "E767 와인",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8c15e9762f304.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8c15e9762f304.png",
+             "hex": "#4B2629"
             },
             {
              "name": "A278 딥 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5fbbe96138d5b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5fbbe96138d5b.png",
+             "hex": "#152C12"
             },
             {
              "name": "E084 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ba9d228cfb4fe.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ba9d228cfb4fe.jpg",
+             "hex": "#263854"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c3215280eba92.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c3215280eba92.png",
+             "hex": "#262626"
             }
            ]
           }
@@ -5340,92 +5819,110 @@
             {
              "name": "E280 옐로우",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9964e5a428207.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9964e5a428207.png",
+             "hex": "#FCC803"
             },
             {
              "name": "E475 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5765c0cc8a14b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5765c0cc8a14b.png",
+             "hex": "#D15312"
             },
             {
              "name": "E479 비비드 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ebc3b0290586.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6ebc3b0290586.png",
+             "hex": "#B71C15"
             },
             {
              "name": "4916 카푸치노",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/22e36574fb8fc.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/22e36574fb8fc.png",
+             "hex": "#A5774F"
             },
             {
              "name": "4746 버건디",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9c917beaad3a6.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9c917beaad3a6.png",
+             "hex": "#762A26"
             },
             {
              "name": "4714 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6d169b80f689b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6d169b80f689b.png",
+             "hex": "#794731"
             },
             {
              "name": "4654 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/09a9a1ff93a87.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/09a9a1ff93a87.png",
+             "hex": "#3F3126"
             },
             {
              "name": "4675 레드 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2f667710ec197.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2f667710ec197.png",
+             "hex": "#35201E"
             },
             {
              "name": "B921 라일락",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f606463d050f5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f606463d050f5.png",
+             "hex": "#A25385"
             },
             {
              "name": "E480 바이올렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ca5ddbf7f11fd.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ca5ddbf7f11fd.jpg",
+             "hex": "#654367"
             },
             {
              "name": "D516 그라스",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/37dd773253fea.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/37dd773253fea.png",
+             "hex": "#98AB49"
             },
             {
              "name": "4720 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c5f22d856436d.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c5f22d856436d.jpg",
+             "hex": "#344D3E"
             },
             {
              "name": "B915 비비드 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2790632bdbebf.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2790632bdbebf.jpg",
+             "hex": "#264E98"
             },
             {
              "name": "4890 임페리얼 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3ca4a8cd056b6.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3ca4a8cd056b6.jpg",
+             "hex": "#28336C"
             },
             {
              "name": "4716 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/48a769d165238.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/48a769d165238.jpg",
+             "hex": "#2C3249"
             },
             {
              "name": "D519 미들 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/42fd6892e639a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/42fd6892e639a.jpg",
+             "hex": "#9FA1A1"
             },
             {
              "name": "4708 다크 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6c42c9dc31c1e.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6c42c9dc31c1e.jpg",
+             "hex": "#575855"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/172f6d97b06ef.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/172f6d97b06ef.png",
+             "hex": "#292929"
             }
            ]
           }
@@ -5490,87 +5987,104 @@
             {
              "name": "D723 베이비 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/87fe8cacf2097.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/87fe8cacf2097.png",
+             "hex": "#FDC9C9"
             },
             {
              "name": "G391 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e6de449964c1b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e6de449964c1b.png",
+             "hex": "#DF4C93"
             },
             {
              "name": "G389 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/27a7a89281afb.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/27a7a89281afb.png",
+             "hex": "#C10C27"
             },
             {
              "name": "G390 버건디",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddd647dfe5157.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ddd647dfe5157.png",
+             "hex": "#501C27"
             },
             {
              "name": "G387 옐로우",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1ecc34bf040c5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1ecc34bf040c5.png",
+             "hex": "#FDBE10"
             },
             {
              "name": "G388 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b3121f388bcfe.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b3121f388bcfe.png",
+             "hex": "#F06510"
             },
             {
              "name": "G592 마일드 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f729ef6cc27e5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f729ef6cc27e5.png",
+             "hex": "#D4ECA9"
             },
             {
              "name": "G396 민트",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/18de52505b8c7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/18de52505b8c7.png",
+             "hex": "#84E8CB"
             },
             {
              "name": "G394 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fb4c31f55789f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fb4c31f55789f.png",
+             "hex": "#1E3307"
             },
             {
              "name": "G393 라이트 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cb7e05b7a551b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cb7e05b7a551b.png",
+             "hex": "#197ACE"
             },
             {
              "name": "B041 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/675c111e5fcbd.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/675c111e5fcbd.png",
+             "hex": "#141D36"
             },
             {
              "name": "G392 바이올렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cf62b9200a332.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cf62b9200a332.png",
+             "hex": "#381159"
             },
             {
              "name": "G398 베이지 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c612abdb777ae.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c612abdb777ae.png",
+             "hex": "#B7AB96"
             },
             {
              "name": "G397 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/122bb5efeea3c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/122bb5efeea3c.png",
+             "hex": "#392511"
             },
             {
              "name": "B043 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a821852732d3d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a821852732d3d.png",
+             "hex": "#717171"
             },
             {
              "name": "B044 다크 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ef93dab343e12.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ef93dab343e12.png",
+             "hex": "#232323"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f7d77ca1653ac.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f7d77ca1653ac.png",
+             "hex": "#000000"
             }
            ]
           }
@@ -5636,57 +6150,68 @@
             {
              "name": "F323 페일 누드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a44985af88c0f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a44985af88c0f.png",
+             "hex": "#B3986F"
             },
             {
              "name": "E043 오렌지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/83afb5d1e7624.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/83afb5d1e7624.png",
+             "hex": "#A94513"
             },
             {
              "name": "A436 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3bd2890539f30.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3bd2890539f30.png",
+             "hex": "#660B08"
             },
             {
              "name": "F312 애쉬 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3f37e8ce4c823.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3f37e8ce4c823.png",
+             "hex": "#605342"
             },
             {
              "name": "F321 새들",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c46c1d88ccdd2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c46c1d88ccdd2.png",
+             "hex": "#442915"
             },
             {
              "name": "G372 다크 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7683169232a84.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7683169232a84.png",
+             "hex": "#1D140E"
             },
             {
              "name": "E054 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/da494e4a3b9e7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/da494e4a3b9e7.png",
+             "hex": "#57574E"
             },
             {
              "name": "E048 인디고",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/040fd0d14f9ba.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/040fd0d14f9ba.png",
+             "hex": "#415777"
             },
             {
              "name": "A439 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91dc26ff3cda2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91dc26ff3cda2.png",
+             "hex": "#12161C"
             },
             {
              "name": "A438 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2ae3d1f489be9.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2ae3d1f489be9.png",
+             "hex": "#121B12"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/837d4ba84a03d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/837d4ba84a03d.png",
+             "hex": "#111111"
             }
            ]
           }
@@ -5752,62 +6277,74 @@
             {
              "name": "E763 밀키 화이트",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eff8f7754d46d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/eff8f7754d46d.png",
+             "hex": "#D3D0C5"
             },
             {
              "name": "F774 애쉬 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62ad3733f4c6a.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62ad3733f4c6a.png",
+             "hex": "#68584D"
             },
             {
              "name": "E386 헤이즐넛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ee2e0566c80a5.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/ee2e0566c80a5.png",
+             "hex": "#774C2C"
             },
             {
              "name": "E391 카카오",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f3f899d77ae7b.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f3f899d77ae7b.png",
+             "hex": "#54392D"
             },
             {
              "name": "E390 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/41e8ef0d954a4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/41e8ef0d954a4.png",
+             "hex": "#62605E"
             },
             {
              "name": "E392 차콜 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e2287183ffb34.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e2287183ffb34.png",
+             "hex": "#403B3C"
             },
             {
              "name": "F139 소프트 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c5b01803ca103.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c5b01803ca103.png",
+             "hex": "#272525"
             },
             {
              "name": "F295 블루진",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/066312bd9ae3c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/066312bd9ae3c.png",
+             "hex": "#242A63"
             },
             {
              "name": "E389 네이비",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/97f80fdca5a56.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/97f80fdca5a56.png",
+             "hex": "#0F233C"
             },
             {
              "name": "E388 바이올렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f3deb5d3b35e7.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f3deb5d3b35e7.png",
+             "hex": "#502C73"
             },
             {
              "name": "E385 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2fafb1442688.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/d2fafb1442688.png",
+             "hex": "#AE0C1B"
             },
             {
              "name": "F551 딥 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a6276494f2152.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a6276494f2152.png",
+             "hex": "#760F19"
             }
            ]
           }
@@ -5869,37 +6406,44 @@
             {
              "name": "F336 베이지",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a899857f2bf16.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a899857f2bf16.png",
+             "hex": "#9D9477"
             },
             {
              "name": "F338 카멜 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/085f0af20e065.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/085f0af20e065.png",
+             "hex": "#6F4D30"
             },
             {
              "name": "F339 레드 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/aef2b393f5a3e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/aef2b393f5a3e.png",
+             "hex": "#713A31"
             },
             {
              "name": "F341 초콜렛",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2f599f3253202.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2f599f3253202.png",
+             "hex": "#483931"
             },
             {
              "name": "F356 인디고",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0b7cd4f7925cf.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0b7cd4f7925cf.jpg",
+             "hex": "#1D2431"
             },
             {
              "name": "F358 차콜 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/90c24912d3e1e.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/90c24912d3e1e.png",
+             "hex": "#52514A"
             },
             {
              "name": "F359 보카시 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/496105eeb5c82.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/496105eeb5c82.png",
+             "hex": "#373835"
             }
            ]
           }
@@ -5962,67 +6506,80 @@
             {
              "name": "D614/M 골드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f3cc7de8277ce.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f3cc7de8277ce.jpg",
+             "hex": "#C8AA64"
             },
             {
              "name": "D613/M 실버",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8071fa6d1aaee.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8071fa6d1aaee.jpg",
+             "hex": "#C1C0C4"
             },
             {
              "name": "E479 비비드 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/52ab28cce915b.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/52ab28cce915b.jpg",
+             "hex": "#B21F21"
             },
             {
              "name": "4718 딥 레드",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/795d170fdb28f.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/795d170fdb28f.jpg",
+             "hex": "#592C2E"
             },
             {
              "name": "4881 로즈 핑크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5188d6cbfd661.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5188d6cbfd661.png",
+             "hex": "#8C2E4E"
             },
             {
              "name": "4720 다크 그린",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/730ba43539d6a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/730ba43539d6a.jpg",
+             "hex": "#254433"
             },
             {
              "name": "B001 터키쉬 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/25d38998b958c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/25d38998b958c.jpg",
+             "hex": "#0485A7"
             },
             {
              "name": "4890 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b141db6e222fc.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/b141db6e222fc.jpg",
+             "hex": "#163266"
             },
             {
              "name": "E442 애쉬 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e1b3a164b2b36.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/e1b3a164b2b36.jpg",
+             "hex": "#7C705D"
             },
             {
              "name": "E482 웜 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5cd162cf6a258.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/5cd162cf6a258.jpg",
+             "hex": "#6E6A67"
             },
             {
              "name": "4675 레드 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2cb05b2fa8216.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2cb05b2fa8216.png",
+             "hex": "#341E1F"
             },
             {
              "name": "4716 미드나잇 블루",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51fe24692ba4c.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/51fe24692ba4c.jpg",
+             "hex": "#223143"
             },
             {
              "name": "NERO 블랙",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6fa89468a5b24.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/6fa89468a5b24.png",
+             "hex": "#1D1D1D"
             }
            ]
           }
@@ -6084,22 +6641,26 @@
             {
              "name": "F264 베이지 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c6f158ee6a46a.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c6f158ee6a46a.jpg",
+             "hex": "#AAA18F"
             },
             {
              "name": "F263 내추럴 코르크",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3f3707be6bcc7.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3f3707be6bcc7.jpg",
+             "hex": "#B18F6B"
             },
             {
              "name": "F275 애쉬 브라운",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/85fd4262c321b.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/85fd4262c321b.jpg",
+             "hex": "#6B5C53"
             },
             {
              "name": "F274 차콜 그레이",
              "detail": "",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7e177e9af9583.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/7e177e9af9583.jpg",
+             "hex": "#494949"
             }
            ]
           }
@@ -6227,52 +6788,62 @@
             {
              "name": "에스카 보드 (프로그 커버)",
              "detail": "1.00 mm (675 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91581ba452c9f.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/91581ba452c9f.png",
+             "hex": "#C4B8A8"
             },
             {
              "name": "에스카 보드",
              "detail": "1.50 mm (945 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c8867dcf8fb87.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c8867dcf8fb87.png",
+             "hex": "#C4B8A8"
             },
             {
              "name": "에스카 보드",
              "detail": "1.75 mm (1,105 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/da3ec48b95f96.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/da3ec48b95f96.png",
+             "hex": "#C4B8A8"
             },
             {
              "name": "에스카 보드",
              "detail": "2.00 mm (1,260 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f390d65515b97.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f390d65515b97.png",
+             "hex": "#C4B8A8"
             },
             {
              "name": "에스카 보드",
              "detail": "2.50 mm (1,575 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/61473ab7479c4.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/61473ab7479c4.png",
+             "hex": "#C4B8A8"
             },
             {
              "name": "에스카 보드",
              "detail": "3.00 mm (1,890 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/911a4cae4d187.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/911a4cae4d187.png",
+             "hex": "#C4B8A8"
             },
             {
              "name": "에스카 퍼즐",
              "detail": "1.50 mm (1,000 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cc7b96ef190ab.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cc7b96ef190ab.png",
+             "hex": "#92A4AD"
             },
             {
              "name": "에스카 퍼즐",
              "detail": "1.75 mm (1,165 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a438e21c24446.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a438e21c24446.png",
+             "hex": "#92A4AD"
             },
             {
              "name": "에스카 퍼즐",
              "detail": "1.90 mm (1,265 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/264176de4fd53.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/264176de4fd53.png",
+             "hex": "#92A4AD"
             },
             {
              "name": "에스카 듀오 화이트",
              "detail": "1.50 mm (1,000 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f1e419de64b0d.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/f1e419de64b0d.png",
+             "hex": "#E7EAEA"
             }
            ]
           }
@@ -6367,37 +6938,44 @@
             {
              "name": "화이트",
              "detail": "1.50 mm (850 g/m²))",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/73cfb944697e2.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/73cfb944697e2.png",
+             "hex": "#EEF1F0"
             },
             {
              "name": "레드",
              "detail": "1.50 mm (850 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/609b97426af29.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/609b97426af29.png",
+             "hex": "#BC192C"
             },
             {
              "name": "오렌지",
              "detail": "1.50 mm (850 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0bd0667cadad3.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0bd0667cadad3.png",
+             "hex": "#FA7501"
             },
             {
              "name": "핑크",
              "detail": "1.50 mm (850 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bbc87e2dcd220.jpg"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/bbc87e2dcd220.jpg",
+             "hex": "#F8BBC2"
             },
             {
              "name": "블랙",
              "detail": "1.00 mm (715 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62247960daded.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/62247960daded.png",
+             "hex": "#1D181A"
             },
             {
              "name": "블랙",
              "detail": "1.50 mm (1,015 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cbc114a2b9c5c.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/cbc114a2b9c5c.png",
+             "hex": "#1D181A"
             },
             {
              "name": "블랙",
              "detail": "2.00 mm (1,370 g/m²)",
-             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/428662da64076.png"
+             "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/428662da64076.png",
+             "hex": "#1D181A"
             }
            ]
           }
@@ -19372,6 +19950,6 @@
    ]
   }
  ],
- "contentHash": "2eea5abe429441d3",
- "generatedAt": "2026-10-12T10:29:37Z"
+ "contentHash": "8a6f695b7fa7cc44",
+ "generatedAt": "2026-10-13T10:22:01Z"
 }
