@@ -9420,7 +9420,8 @@
            ]
           }
          ],
-         "swatches": []
+         "swatches": [],
+         "colorChip": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a89cb5b7476b3.png"
         },
         {
          "id": 123,
@@ -9447,7 +9448,8 @@
            "text": "· 호일의 별도 재단은 제공하지 않으므로 재단을 원하시는 경우에는 호일가공 업체에 문의하시기 바랍니다.\n· 호일은 피소재(종이)에 따라 작업이 원활하지 않은 경우가 있습니다.\n· 대량 작업시 반드시 소형 규격으로 테스트 후 진행하시기 바랍니다.\n· 이미 일부 사용하였거나 재단한 호일은 반품 및 교환이 불가합니다."
           }
          ],
-         "swatches": []
+         "swatches": [],
+         "colorChip": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/2432f0cc000a1.png"
         },
         {
          "id": 122,
@@ -9481,7 +9483,8 @@
            ]
           }
          ],
-         "swatches": []
+         "swatches": [],
+         "colorChip": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/8136830cce7d0.png"
         },
         {
          "id": 121,
@@ -9516,7 +9519,8 @@
            ]
           }
          ],
-         "swatches": []
+         "swatches": [],
+         "colorChip": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3b9fe5e279ea1.png"
         },
         {
          "id": 120,
@@ -9543,7 +9547,8 @@
            "text": "· 호일의 별도 재단은 제공하지 않으므로 재단을 원하시는 경우에는 호일가공 업체에 문의하시기 바랍니다.\n· 호일은 피소재(종이)에 따라 작업이 원활하지 않은 경우가 있습니다.\n· 대량 작업시 반드시 소형 규격으로 테스트 후 진행하시기 바랍니다.\n· 이미 일부 사용하였거나 재단한 호일은 반품 및 교환이 불가합니다."
           }
          ],
-         "swatches": []
+         "swatches": [],
+         "colorChip": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/fbb41e97e891e.png"
         },
         {
          "id": 119,
@@ -17164,7 +17169,7 @@
      "id": "designproject",
      "caption": "FOR INSPIRATION",
      "title": "DESIGN PROJECTS",
-     "subtitle": "디자인 프로젝트 & 상품",
+     "subtitle": "디자인 상품",
      "description": "위. 디자인. 페이퍼.는 디자인 소재에 숨겨진 수많은 매력을 찾기 위해 노력합니다. 소재가 주는 영감, 영감을 주는 디자인 프로젝트, 함께 즐겨보세요.",
      "headerColor": "#574723",
      "headerTextColor": "#CCE2F0",
@@ -19955,52 +19960,32 @@
   "caption": "",
   "title": "DESIGN PAPER STORE",
   "subtitle": "by SEOKYUNG",
-  "url": "https://wedesignpaper.com/",
+  "url": "https://wedesignpaper.com/appnews",
   "headerColor": "#505050",
   "headerTextColor": "#EBE8DF",
   "sections": [
    {
-    "title": "NEW PAPER",
-    "description": "위.디자인.페이퍼.가 정성껏 소개하는 새로운 종이를 만나보세요.",
+    "title": "NEWS",
+    "description": "위. 디자인. 페이퍼. 에서 새로나온 디자인 상품을 소개합니다.",
     "items": [
      {
-      "title": "그문드 문라이트",
-      "text": "고급스러운 색감에 은은한 반짝임이 매력적인 친환경 종이\nFSC®",
-      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/c0f286111afef.png",
-      "productID": 471,
-      "url": "https://wedesignpaper.com/shop_view/?idx=471"
+      "title": "그문드 패키지 컬렉션 - 윤슬머금은",
+      "text": "크리스탈 ｜ MW 미카도 화이트 310 g/m² ｜ 455 샴페인 무광",
+      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1090212735196.jpg",
+      "productID": 490,
+      "url": "https://wedesignpaper.com/shop_view/?idx=490"
      },
      {
-      "title": "페블",
-      "text": "'시에나에서의 한 달' 책 표지로 사용된 러프한 촉감이 매력적인 친환경 종이\nFSC®",
-      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/3948ca500275e.png",
-      "productID": 392,
-      "url": "https://wedesignpaper.com/shop_view/?idx=392"
-     }
-    ]
-   },
-   {
-    "title": "HOT PAPER",
-    "description": "요즘 주목받는 핫한 종이는 무엇일까요?",
-    "items": [
-     {
-      "title": "노 블리치",
-      "text": "독일 식품 접촉 안전 인증을 획득한 탄조 중립(제로) 친환경 종이\nFSC®",
-      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/9c0af09e1cb33.png",
-      "productID": 17,
-      "url": "https://wedesignpaper.com/shop_view/?idx=17"
-     },
-     {
-      "title": "그문드 캔버스",
-      "text": "비비드한 색상과 패브릭 엠보싱이 조화로운 고급 그래픽 친환경 종이\nFSC®",
-      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/a0681536dba13.png",
-      "productID": 14,
-      "url": "https://wedesignpaper.com/shop_view/?idx=14"
+      "title": "그문드 브랜드 아카이브",
+      "text": "오슬로 ｜ A15 피코크 그린 300 g/m² ｜ 972 골든 옐로우",
+      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0e91479dc95ae.jpg",
+      "productID": 489,
+      "url": "https://wedesignpaper.com/shop_view/?idx=489"
      }
     ]
    }
   ]
  },
- "contentHash": "7bac704beb8152bd",
- "generatedAt": "2026-10-13T14:58:51Z"
+ "contentHash": "4fcda98140246c99",
+ "generatedAt": "2026-10-14T06:19:50Z"
 }
