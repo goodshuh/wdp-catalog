@@ -19969,23 +19969,240 @@
     "description": "위. 디자인. 페이퍼. 에서 새로나온 디자인 상품을 소개합니다.",
     "items": [
      {
-      "title": "그문드 패키지 컬렉션 - 윤슬머금은",
-      "text": "크리스탈 ｜ MW 미카도 화이트 310 g/m² ｜ 455 샴페인 무광",
-      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/1090212735196.jpg",
-      "productID": 490,
-      "url": "https://wedesignpaper.com/shop_view/?idx=490"
+      "title": "그문드 브랜드 아카이브",
+      "text": "그문드가 선보이는 122종의 종이를 한 권에 담은 샘플 아카이브",
+      "image": "https://cdn.imweb.me/thumbnail/20261014/bec94dfa4fd5f.jpg",
+      "productID": 489,
+      "url": "https://wedesignpaper.com/shop_view/?idx=489",
+      "materials": [
+       {
+        "label": "종이",
+        "text": "그문드 문라이트 355 g/m²",
+        "name": "그문드 문라이트",
+        "detail": "355 g/m²",
+        "productID": 471
+       },
+       {
+        "label": "종이",
+        "text": "그문드 바우하우스 300 g/m²",
+        "name": "그문드 바우하우스",
+        "detail": "300 g/m²",
+        "productID": 13
+       },
+       {
+        "label": "종이",
+        "text": "그문드 빈티지 300 g/m²",
+        "name": "그문드 빈티지",
+        "detail": "300 g/m²",
+        "productID": 370
+       },
+       {
+        "label": "종이",
+        "text": "그문드 제로 300 g/m² (위트) / 320 g/m² (헴프)",
+        "name": "그문드 제로",
+        "detail": "300 g/m² (위트) / 320 g/m² (헴프)",
+        "productID": 103
+       },
+       {
+        "label": "종이",
+        "text": "그문드 캔버스 300 g/m²",
+        "name": "그문드 캔버스",
+        "detail": "300 g/m²",
+        "productID": 14
+       },
+       {
+        "label": "종이",
+        "text": "그문드 펠트 320 g/m²",
+        "name": "그문드 펠트",
+        "detail": "320 g/m²",
+        "productID": 16
+       },
+       {
+        "label": "종이",
+        "text": "노 블리치 300 g/m²",
+        "name": "노 블리치",
+        "detail": "300 g/m²",
+        "productID": 17
+       },
+       {
+        "label": "종이",
+        "text": "메리노 30 g/m²",
+        "name": "메리노",
+        "detail": "30 g/m²",
+        "productID": 18
+       },
+       {
+        "label": "종이",
+        "text": "블랑 300 g/m²",
+        "name": "블랑",
+        "detail": "300 g/m²",
+        "productID": 34
+       },
+       {
+        "label": "종이",
+        "text": "비! 300 g/m²",
+        "name": "비!",
+        "detail": "300 g/m²",
+        "productID": 21
+       },
+       {
+        "label": "종이",
+        "text": "아키텍트 310 g/m²",
+        "name": "아키텍트",
+        "detail": "310 g/m²",
+        "productID": 374
+       },
+       {
+        "label": "종이",
+        "text": "오슬로 300 g/m²",
+        "name": "오슬로",
+        "detail": "300 g/m²",
+        "productID": 19
+       },
+       {
+        "label": "종이",
+        "text": "엑스트라 350 g/m²",
+        "name": "엑스트라",
+        "detail": "350 g/m²",
+        "productID": 37
+       },
+       {
+        "label": "종이",
+        "text": "엑스트라 코튼 300 g/m²",
+        "name": "엑스트라 코튼",
+        "detail": "300 g/m²",
+        "productID": 39
+       },
+       {
+        "label": "종이",
+        "text": "크리스탈 310 g/m²",
+        "name": "크리스탈",
+        "detail": "310 g/m²",
+        "productID": 32
+       },
+       {
+        "label": "종이",
+        "text": "페블 300g/m²",
+        "name": "페블",
+        "detail": "300g/m²",
+        "productID": 392
+       },
+       {
+        "label": "종이",
+        "text": "하이디 330 g/m²",
+        "name": "하이디",
+        "detail": "330 g/m²",
+        "productID": 33
+       },
+       {
+        "label": "종이",
+        "text": "헤리티지 300 g/m²",
+        "name": "헤리티지",
+        "detail": "300 g/m²",
+        "productID": 15
+       },
+       {
+        "label": "호일",
+        "text": "972 골든 옐로우",
+        "name": "972 골든 옐로우",
+        "detail": "",
+        "productID": 160
+       }
+      ],
+      "imageWidth": 1000,
+      "imageHeight": 778
      },
      {
-      "title": "그문드 브랜드 아카이브",
-      "text": "오슬로 ｜ A15 피코크 그린 300 g/m² ｜ 972 골든 옐로우",
-      "image": "https://cdn-optimized.imweb.me/upload/S2022121654d97ffdc0897/0e91479dc95ae.jpg",
-      "productID": 489,
-      "url": "https://wedesignpaper.com/shop_view/?idx=489"
+      "title": "그문드 패키지 컬렉션 - 윤슬머금은",
+      "text": "한국적인 합(盒)의 구조를 차용한 패키지 디자인 컬렉션",
+      "image": "https://cdn.imweb.me/thumbnail/20261014/1752f234b58eb.jpg",
+      "productID": 490,
+      "url": "https://wedesignpaper.com/shop_view/?idx=490",
+      "materials": [
+       {
+        "label": "종이",
+        "text": "크리스탈 MW 미카도 화이트 310 g/m²",
+        "name": "크리스탈 MW 미카도 화이트",
+        "detail": "310 g/m²",
+        "productID": 32,
+        "color": "MW 미카도 화이트"
+       },
+       {
+        "label": "종이",
+        "text": "그문드 제로 위트 화이트 300 g/m²",
+        "name": "그문드 제로 위트 화이트",
+        "detail": "300 g/m²",
+        "productID": 103,
+        "color": "위트 화이트"
+       },
+       {
+        "label": "종이",
+        "text": "헤리티지 PB 파우더 블루 300 g/m²",
+        "name": "헤리티지 PB 파우더 블루",
+        "detail": "300 g/m²",
+        "productID": 15,
+        "color": "PB 파우더 블루"
+       },
+       {
+        "label": "종이",
+        "text": "크리스탈 317 샌드 골드 310 g/m²",
+        "name": "크리스탈 317 샌드 골드",
+        "detail": "310 g/m²",
+        "productID": 32,
+        "color": "317 샌드 골드"
+       },
+       {
+        "label": "종이",
+        "text": "오슬로 A19 누디 베이지 300 g/m²",
+        "name": "오슬로 A19 누디 베이지",
+        "detail": "300 g/m²",
+        "productID": 19,
+        "color": "A19 누디 베이지"
+       },
+       {
+        "label": "종이",
+        "text": "아키텍트 45 실버 라이닝 310 g/m²",
+        "name": "아키텍트 45 실버 라이닝",
+        "detail": "310 g/m²",
+        "productID": 374,
+        "color": "45 실버 라이닝"
+       },
+       {
+        "label": "호일",
+        "text": "455 샴페인 무광",
+        "name": "455 샴페인 무광",
+        "detail": "",
+        "productID": 9
+       },
+       {
+        "label": "호일",
+        "text": "737 샤이닝 민트",
+        "name": "737 샤이닝 민트",
+        "detail": "",
+        "productID": 94
+       },
+       {
+        "label": "호일",
+        "text": "392 비비드 레드",
+        "name": "392 비비드 레드",
+        "detail": "",
+        "productID": 68
+       },
+       {
+        "label": "호일",
+        "text": "769 파우더 핑크",
+        "name": "769 파우더 핑크",
+        "detail": "",
+        "productID": 79
+       }
+      ],
+      "imageWidth": 1000,
+      "imageHeight": 778
      }
     ]
    }
   ]
  },
- "contentHash": "4fcda98140246c99",
- "generatedAt": "2026-10-14T06:19:50Z"
+ "contentHash": "cfe24774000a6626",
+ "generatedAt": "2026-10-14T07:35:29Z"
 }
