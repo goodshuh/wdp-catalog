@@ -20352,31 +20352,13 @@
              "detail": "",
              "productID": 74,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "택 1 : 페블 84 러프 베이지 300 g/m²",
-           "items": [
+            },
             {
              "label": "호일",
              "text": "332 프렌치 골드",
              "name": "332 프렌치 골드",
              "detail": "",
              "productID": 75,
-             "color": null
-            }
-           ]
-          },
-          {
-           "title": "택 2 : 페블 50 러프 화이트 300 g/m²",
-           "items": [
-            {
-             "label": "호일",
-             "text": "768 페블 베이지",
-             "name": "768 페블 베이지",
-             "detail": "",
-             "productID": 74,
              "color": null
             }
            ]
@@ -20391,6 +20373,14 @@
              "detail": "300 g/m²",
              "productID": 19,
              "color": "A10 미카도 옐로우"
+            },
+            {
+             "label": "종이",
+             "text": "택 : 아키텍트 28 브릴리언트 그린 310 g/m²",
+             "name": "아키텍트 28 브릴리언트 그린",
+             "detail": "310 g/m²",
+             "productID": 374,
+             "color": "28 브릴리언트 그린"
             }
            ]
           },
@@ -20404,12 +20394,15 @@
              "detail": "300 g/m²",
              "productID": 13,
              "color": "화이트1"
-            }
-           ]
-          },
-          {
-           "title": "택 : 오슬로 A17 스칼렛 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "택 : 오슬로 A17 스칼렛 300 g/m²",
+             "name": "오슬로 A17 스칼렛",
+             "detail": "300 g/m²",
+             "productID": 19,
+             "color": "A17 스칼렛"
+            },
             {
              "label": "호일",
              "text": "812 클린 블랙",
@@ -20431,32 +20424,6 @@
              "productID": 33,
              "color": "하이델베르그 그레이"
             },
-            {
-             "label": "호일",
-             "text": "404 스칼렛",
-             "name": "404 스칼렛",
-             "detail": "",
-             "productID": 67,
-             "color": null
-            }
-           ]
-          },
-          {
-           "title": "택 1 : 하이디 하이델베르그 그레이 330 g/m²",
-           "items": [
-            {
-             "label": "호일",
-             "text": "404 스칼렛",
-             "name": "404 스칼렛",
-             "detail": "",
-             "productID": 67,
-             "color": null
-            }
-           ]
-          },
-          {
-           "title": "택 2 : 하이디 하이델베르그 그레이 330 g/m²",
-           "items": [
             {
              "label": "호일",
              "text": "404 스칼렛",
@@ -20493,6 +20460,14 @@
              "detail": "",
              "productID": 166,
              "color": null
+            },
+            {
+             "label": "종이",
+             "text": "택 : 그문드 빈티지 89 미드나잇 블루 300 g/m²",
+             "name": "그문드 빈티지 89 미드나잇 블루",
+             "detail": "300 g/m²",
+             "productID": 370,
+             "color": "89 미드나잇 블루"
             }
            ]
           },
@@ -20514,19 +20489,14 @@
              "detail": "",
              "productID": 12,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "택 : 메리노 10 태니지 블랙 350 g/m²",
-           "items": [
+            },
             {
-             "label": "호일",
-             "text": "333 딤 그레이",
-             "name": "333 딤 그레이",
-             "detail": "",
-             "productID": 12,
-             "color": null
+             "label": "종이",
+             "text": "택 : 메리노 10 태니지 블랙 350 g/m²",
+             "name": "메리노 10 태니지 블랙",
+             "detail": "350 g/m²",
+             "productID": 18,
+             "color": "10 태니지 블랙"
             }
            ]
           },
@@ -20537,7 +20507,7 @@
              "label": "종이",
              "text": "리플렛 : 엑스트라 코튼 코튼 화이트 300 g/m²",
              "name": "엑스트라 코튼 코튼 화이트",
-             "detail": "300 g/m²",
+             "detail": "300 g/m² · 600 g/m²",
              "productID": 39,
              "color": "코튼 화이트"
             },
@@ -20967,12 +20937,15 @@
              "detail": "",
              "productID": 67,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "아키텍트 50 샤이닝 화이트 310 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "아키텍트 50 샤이닝 화이트 310 g/m²",
+             "name": "아키텍트 50 샤이닝 화이트",
+             "detail": "310 g/m²",
+             "productID": 374,
+             "color": "50 샤이닝 화이트"
+            },
             {
              "label": "호일",
              "text": "356 슬레이트 블루",
@@ -20980,12 +20953,15 @@
              "detail": "",
              "productID": 83,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "그문드 펠트 49 크림 320 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "그문드 펠트 49 크림 320 g/m²",
+             "name": "그문드 펠트 49 크림",
+             "detail": "320 g/m²",
+             "productID": 16,
+             "color": "49 크림"
+            },
             {
              "label": "호일",
              "text": "385 유로 골드",
@@ -21001,12 +20977,15 @@
              "detail": "",
              "productID": 9,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "오슬로 A04 소프트 크림 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "오슬로 A04 소프트 크림 300 g/m²",
+             "name": "오슬로 A04 소프트 크림",
+             "detail": "300 g/m²",
+             "productID": 19,
+             "color": "A04 소프트 크림"
+            },
             {
              "label": "호일",
              "text": "744 소프트 코퍼",
@@ -21022,6 +21001,14 @@
              "detail": "",
              "productID": 102,
              "color": null
+            },
+            {
+             "label": "종이",
+             "text": "아키텍트 85 브라이트 베이지 310 g/m²",
+             "name": "아키텍트 85 브라이트 베이지",
+             "detail": "310 g/m²",
+             "productID": 374,
+             "color": "85 브라이트 베이지"
             }
            ]
           },
@@ -21064,12 +21051,15 @@
              "detail": "",
              "productID": 149,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "비! 다크 그린 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "비! 다크 그린 300 g/m²",
+             "name": "비! 다크 그린",
+             "detail": "300 g/m²",
+             "productID": 21,
+             "color": "다크 그린"
+            },
             {
              "label": "호일",
              "text": "368 라임",
@@ -21077,12 +21067,15 @@
              "detail": "",
              "productID": 95,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "그문드 빈티지 16 빈티지 그린 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "그문드 빈티지 16 빈티지 그린 300 g/m²",
+             "name": "그문드 빈티지 16 빈티지 그린",
+             "detail": "300 g/m²",
+             "productID": 370,
+             "color": "16 빈티지 그린"
+            },
             {
              "label": "호일",
              "text": "428 유로 골드 무광",
@@ -21090,12 +21083,15 @@
              "detail": "",
              "productID": 51,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "크리스탈 314 폴라 310 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "크리스탈 314 폴라 310 g/m²",
+             "name": "크리스탈 314 폴라",
+             "detail": "310 g/m²",
+             "productID": 32,
+             "color": "314 폴라"
+            },
             {
              "label": "호일",
              "text": "911 화이트",
@@ -21119,12 +21115,15 @@
              "detail": "",
              "productID": 96,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "오슬로 A14 인디고 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "오슬로 A14 인디고 300 g/m²",
+             "name": "오슬로 A14 인디고",
+             "detail": "300 g/m²",
+             "productID": 19,
+             "color": "A14 인디고"
+            },
             {
              "label": "호일",
              "text": "766 레몬 골드",
@@ -21174,12 +21173,15 @@
              "detail": "",
              "productID": 161,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "오슬로 A16 로스트 브라운 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "오슬로 A16 로스트 브라운 300 g/m²",
+             "name": "오슬로 A16 로스트 브라운",
+             "detail": "300 g/m²",
+             "productID": 19,
+             "color": "A16 로스트 브라운"
+            },
             {
              "label": "호일",
              "text": "396 코퍼",
@@ -21195,12 +21197,15 @@
              "detail": "",
              "productID": 68,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "오슬로 A07 실버 그레이 300 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "오슬로 A07 실버 그레이 300 g/m²",
+             "name": "오슬로 A07 실버 그레이",
+             "detail": "300 g/m²",
+             "productID": 19,
+             "color": "A07 실버 그레이"
+            },
             {
              "label": "호일",
              "text": "Laser AL 레이저 실버",
@@ -21208,12 +21213,15 @@
              "detail": "",
              "productID": 124,
              "color": null
-            }
-           ]
-          },
-          {
-           "title": "그문드 펠트 23 라이트 그레이 320 g/m²",
-           "items": [
+            },
+            {
+             "label": "종이",
+             "text": "그문드 펠트 23 라이트 그레이 320 g/m²",
+             "name": "그문드 펠트 23 라이트 그레이",
+             "detail": "320 g/m²",
+             "productID": 16,
+             "color": "23 라이트 그레이"
+            },
             {
              "label": "호일",
              "text": "153 실버 연무광",
@@ -21229,6 +21237,14 @@
              "detail": "",
              "productID": 98,
              "color": null
+            },
+            {
+             "label": "종이",
+             "text": "하이디 보스턴 블랙 330 g/m²",
+             "name": "하이디 보스턴 블랙",
+             "detail": "330 g/m²",
+             "productID": 33,
+             "color": "보스턴 블랙"
             }
            ]
           }
@@ -24366,27 +24382,59 @@
            "items": [
             {
              "label": "종이",
-             "text": "트루컬러 120 g/m²",
-             "name": "트루컬러",
-             "detail": "120 g/m²",
+             "text": "410 샤모아",
+             "name": "트루컬러 410 샤모아",
+             "detail": "",
              "productID": 20,
-             "color": null
+             "color": "410 샤모아"
             },
             {
-             "label": "호일",
+             "label": "종이",
              "text": "414 옐로우",
-             "name": "414 옐로우",
+             "name": "트루컬러 414 옐로우",
              "detail": "",
-             "productID": 161,
-             "color": null
+             "productID": 20,
+             "color": "414 옐로우"
             },
             {
-             "label": "호일",
-             "text": "416 오렌지",
-             "name": "416 오렌지",
+             "label": "종이",
+             "text": "415 탠저린",
+             "name": "트루컬러 415 탠저린",
              "detail": "",
-             "productID": 65,
-             "color": null
+             "productID": 20,
+             "color": "415 탠저린"
+            },
+            {
+             "label": "종이",
+             "text": "416 오렌지",
+             "name": "트루컬러 416 오렌지",
+             "detail": "",
+             "productID": 20,
+             "color": "416 오렌지"
+            },
+            {
+             "label": "종이",
+             "text": "430 토마토",
+             "name": "트루컬러 430 토마토",
+             "detail": "",
+             "productID": 20,
+             "color": "430 토마토"
+            },
+            {
+             "label": "종이",
+             "text": "433 라즈베리",
+             "name": "트루컬러 433 라즈베리",
+             "detail": "",
+             "productID": 20,
+             "color": "433 라즈베리"
+            },
+            {
+             "label": "종이",
+             "text": "437 마젠타",
+             "name": "트루컬러 437 마젠타",
+             "detail": "",
+             "productID": 20,
+             "color": "437 마젠타"
             }
            ]
           },
@@ -24395,35 +24443,51 @@
            "items": [
             {
              "label": "종이",
-             "text": "트루컬러 120 g/m²",
-             "name": "트루컬러",
-             "detail": "120 g/m²",
-             "productID": 20,
-             "color": null
-            },
-            {
-             "label": "호일",
              "text": "401 화이트",
-             "name": "401 화이트",
+             "name": "트루컬러 401 화이트",
              "detail": "",
-             "productID": 166,
-             "color": null
+             "productID": 20,
+             "color": "401 화이트"
             },
             {
-             "label": "호일",
+             "label": "종이",
+             "text": "450 실버 그레이",
+             "name": "트루컬러 450 실버 그레이",
+             "detail": "",
+             "productID": 20,
+             "color": "450 실버 그레이"
+            },
+            {
+             "label": "종이",
              "text": "402 크림",
-             "name": "402 크림",
+             "name": "트루컬러 402 크림",
              "detail": "",
-             "productID": 162,
-             "color": null
+             "productID": 20,
+             "color": "402 크림"
             },
             {
-             "label": "호일",
-             "text": "400 블랙",
-             "name": "400 블랙",
+             "label": "종이",
+             "text": "412 샌드 베이지",
+             "name": "트루컬러 412 샌드 베이지",
              "detail": "",
-             "productID": 101,
-             "color": null
+             "productID": 20,
+             "color": "412 샌드 베이지"
+            },
+            {
+             "label": "종이",
+             "text": "424 다크 브라운",
+             "name": "트루컬러 424 다크 브라운",
+             "detail": "",
+             "productID": 20,
+             "color": "424 다크 브라운"
+            },
+            {
+             "label": "종이",
+             "text": "400 블랙",
+             "name": "트루컬러 400 블랙",
+             "detail": "",
+             "productID": 20,
+             "color": "400 블랙"
             }
            ]
           },
@@ -24432,27 +24496,59 @@
            "items": [
             {
              "label": "종이",
-             "text": "트루컬러 120 g/m²",
-             "name": "트루컬러",
-             "detail": "120 g/m²",
-             "productID": 20,
-             "color": null
-            },
-            {
-             "label": "호일",
              "text": "480 라임",
-             "name": "480 라임",
+             "name": "트루컬러 480 라임",
              "detail": "",
-             "productID": 95,
-             "color": null
+             "productID": 20,
+             "color": "480 라임"
             },
             {
-             "label": "호일",
-             "text": "483 애플 그린",
-             "name": "483 애플 그린",
+             "label": "종이",
+             "text": "482 그라스",
+             "name": "트루컬러 482 그라스",
              "detail": "",
-             "productID": 96,
-             "color": null
+             "productID": 20,
+             "color": "482 그라스"
+            },
+            {
+             "label": "종이",
+             "text": "483 애플 그린",
+             "name": "트루컬러 483 애플 그린",
+             "detail": "",
+             "productID": 20,
+             "color": "483 애플 그린"
+            },
+            {
+             "label": "종이",
+             "text": "484 다크 그린",
+             "name": "트루컬러 484 다크 그린",
+             "detail": "",
+             "productID": 20,
+             "color": "484 다크 그린"
+            },
+            {
+             "label": "종이",
+             "text": "467 터키쉬 그린",
+             "name": "트루컬러 467 터키쉬 그린",
+             "detail": "",
+             "productID": 20,
+             "color": "467 터키쉬 그린"
+            },
+            {
+             "label": "종이",
+             "text": "466 시안",
+             "name": "트루컬러 466 시안",
+             "detail": "",
+             "productID": 20,
+             "color": "466 시안"
+            },
+            {
+             "label": "종이",
+             "text": "462 오팔 블루",
+             "name": "트루컬러 462 오팔 블루",
+             "detail": "",
+             "productID": 20,
+             "color": "462 오팔 블루"
             }
            ]
           },
@@ -24782,6 +24878,6 @@
    }
   ]
  },
- "contentHash": "fdb731cccc5a2a23",
- "generatedAt": "2026-10-15T12:11:06Z"
+ "contentHash": "7c6b3f40e6484347",
+ "generatedAt": "2026-10-15T14:13:40Z"
 }
