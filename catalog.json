@@ -24522,6 +24522,168 @@
       "image": "https://cdn.imweb.me/thumbnail/20261014/bec94dfa4fd5f.jpg",
       "productID": 489,
       "url": "https://wedesignpaper.com/shop_view/?idx=489",
+      "materials": [
+       {
+        "label": "종이",
+        "text": "그문드 문라이트 355 g/m²",
+        "name": "그문드 문라이트",
+        "detail": "355 g/m²",
+        "productID": 471,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "그문드 바우하우스 300 g/m²",
+        "name": "그문드 바우하우스",
+        "detail": "300 g/m²",
+        "productID": 13,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "그문드 빈티지 300 g/m²",
+        "name": "그문드 빈티지",
+        "detail": "300 g/m²",
+        "productID": 370,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "그문드 제로 300 g/m² (위트)",
+        "name": "그문드 제로",
+        "detail": "300 g/m² (위트)",
+        "productID": 103,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "그문드 제로 320 g/m² (헴프)",
+        "name": "그문드 제로",
+        "detail": "320 g/m² (헴프)",
+        "productID": 103,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "그문드 캔버스 300 g/m²",
+        "name": "그문드 캔버스",
+        "detail": "300 g/m²",
+        "productID": 14,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "그문드 펠트 320 g/m²",
+        "name": "그문드 펠트",
+        "detail": "320 g/m²",
+        "productID": 16,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "노 블리치 300 g/m²",
+        "name": "노 블리치",
+        "detail": "300 g/m²",
+        "productID": 17,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "메리노 30 g/m²",
+        "name": "메리노",
+        "detail": "30 g/m²",
+        "productID": 18,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "블랑 300 g/m²",
+        "name": "블랑",
+        "detail": "300 g/m²",
+        "productID": 34,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "비! 300 g/m²",
+        "name": "비!",
+        "detail": "300 g/m²",
+        "productID": 21,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "아키텍트 310 g/m²",
+        "name": "아키텍트",
+        "detail": "310 g/m²",
+        "productID": 374,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "오슬로 300 g/m²",
+        "name": "오슬로",
+        "detail": "300 g/m²",
+        "productID": 19,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "엑스트라 350 g/m²",
+        "name": "엑스트라",
+        "detail": "350 g/m²",
+        "productID": 37,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "엑스트라 코튼 300 g/m²",
+        "name": "엑스트라 코튼",
+        "detail": "300 g/m²",
+        "productID": 39,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "크리스탈 310 g/m²",
+        "name": "크리스탈",
+        "detail": "310 g/m²",
+        "productID": 32,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "페블 300g/m²",
+        "name": "페블",
+        "detail": "300g/m²",
+        "productID": 392,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "하이디 330 g/m²",
+        "name": "하이디",
+        "detail": "330 g/m²",
+        "productID": 33,
+        "color": null
+       },
+       {
+        "label": "종이",
+        "text": "헤리티지 300 g/m²",
+        "name": "헤리티지",
+        "detail": "300 g/m²",
+        "productID": 15,
+        "color": null
+       },
+       {
+        "label": "호일",
+        "text": "972 골든 옐로우",
+        "name": "972 골든 옐로우",
+        "detail": "",
+        "productID": 160,
+        "color": null
+       }
+      ],
       "imageWidth": 1000,
       "imageHeight": 778
      },
@@ -24531,6 +24693,88 @@
       "image": "https://cdn.imweb.me/thumbnail/20261014/1752f234b58eb.jpg",
       "productID": 490,
       "url": "https://wedesignpaper.com/shop_view/?idx=490",
+      "materials": [
+       {
+        "label": "종이",
+        "text": "크리스탈 MW 미카도 화이트 310 g/m²",
+        "name": "크리스탈 MW 미카도 화이트",
+        "detail": "310 g/m²",
+        "productID": 32,
+        "color": "MW 미카도 화이트"
+       },
+       {
+        "label": "종이",
+        "text": "그문드 제로 위트 화이트 300 g/m²",
+        "name": "그문드 제로 위트 화이트",
+        "detail": "300 g/m²",
+        "productID": 103,
+        "color": "위트 화이트"
+       },
+       {
+        "label": "종이",
+        "text": "헤리티지 PB 파우더 블루 300 g/m²",
+        "name": "헤리티지 PB 파우더 블루",
+        "detail": "300 g/m²",
+        "productID": 15,
+        "color": "PB 파우더 블루"
+       },
+       {
+        "label": "종이",
+        "text": "크리스탈 317 샌드 골드 310 g/m²",
+        "name": "크리스탈 317 샌드 골드",
+        "detail": "310 g/m²",
+        "productID": 32,
+        "color": "317 샌드 골드"
+       },
+       {
+        "label": "종이",
+        "text": "오슬로 A19 누디 베이지 300 g/m²",
+        "name": "오슬로 A19 누디 베이지",
+        "detail": "300 g/m²",
+        "productID": 19,
+        "color": "A19 누디 베이지"
+       },
+       {
+        "label": "종이",
+        "text": "아키텍트 45 실버 라이닝 310 g/m²",
+        "name": "아키텍트 45 실버 라이닝",
+        "detail": "310 g/m²",
+        "productID": 374,
+        "color": "45 실버 라이닝"
+       },
+       {
+        "label": "호일",
+        "text": "455 샴페인 무광",
+        "name": "455 샴페인 무광",
+        "detail": "",
+        "productID": 9,
+        "color": null
+       },
+       {
+        "label": "호일",
+        "text": "737 샤이닝 민트",
+        "name": "737 샤이닝 민트",
+        "detail": "",
+        "productID": 94,
+        "color": null
+       },
+       {
+        "label": "호일",
+        "text": "392 비비드 레드",
+        "name": "392 비비드 레드",
+        "detail": "",
+        "productID": 68,
+        "color": null
+       },
+       {
+        "label": "호일",
+        "text": "769 파우더 핑크",
+        "name": "769 파우더 핑크",
+        "detail": "",
+        "productID": 79,
+        "color": null
+       }
+      ],
       "imageWidth": 1000,
       "imageHeight": 778
      }
@@ -24538,6 +24782,6 @@
    }
   ]
  },
- "contentHash": "0ee2a266f294320d",
- "generatedAt": "2026-10-15T11:44:08Z"
+ "contentHash": "fdb731cccc5a2a23",
+ "generatedAt": "2026-10-15T12:11:06Z"
 }
